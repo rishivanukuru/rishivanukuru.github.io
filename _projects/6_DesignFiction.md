@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: projects
+author_profile: false
 title: ReVoice - Design Fiction
 excerpt: Speculative Design artefacts and prototypes, from a future where all speech is suspect.
 duration: Spring 2019

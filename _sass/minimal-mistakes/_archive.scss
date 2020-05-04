@@ -5,22 +5,27 @@
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
-
+  //width: 67%;
+    margin-right: auto;
+    margin-left: auto;
+  //padding-right:     
+    
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    //float: ;
+    //width: calc(100% - #{$right-sidebar-width-narrow});
+    //padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    //width: calc(100% - #{$right-sidebar-width});
+    //padding-right: $right-sidebar-width;
   }
 }
 
 .archive__item {
   position: relative;
 
+    
   a {
     position: relative;
     z-index: 10;
@@ -34,7 +39,7 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
 
@@ -79,7 +84,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 
   & + p {
     text-indent: 0;
@@ -92,7 +97,7 @@
 
 .archive__item-teaser {
   position: relative;
-  border-radius: $border-radius*3;
+  //border-radius: $border-radius*3;
   overflow: hidden;
 }
 

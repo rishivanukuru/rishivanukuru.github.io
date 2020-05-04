@@ -1,7 +1,7 @@
 ---
 
-layout: single
-author_profile: true
+layout: projects
+author_profile: false
 title: Bipolar Spectacles
 excerpt: A series of short comic strips about life at IIT Bombay.
 duration: Autumn 2017

@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: projects
+author_profile: false
 title: Expresso
 excerpt: An interactive installation of an expressive digital typewriter.
 duration: Spring 2019

@@ -1,8 +1,9 @@
 ---
 title: Notes
 permalink: notes
-layout: notes
-author_profile: true
+layout: collection
+collection: notes
+author_profile: false
 ---
 
 

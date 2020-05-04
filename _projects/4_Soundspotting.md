@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: projects
+author_profile: false
 title: Soundspotting
 excerpt: Connecting Communities through Interactive Social Soundscapes and Audio Augmented Reality.
 duration: Winter 2018

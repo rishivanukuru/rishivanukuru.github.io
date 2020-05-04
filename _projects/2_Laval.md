@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: projects
+author_profile: false
 title: Research and Design for VR
 excerpt: Research Internship at Arts et métiers Laval, France.
 duration: Summer 2019

@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: projects
+author_profile: false
 title: The Styrofoam Podcast
 excerpt: An instructional podcast on the Common Entrance Examination for Design (CEED).
 duration: Spring 2019

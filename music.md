@@ -3,7 +3,7 @@ title: Music
 permalink: /music
 layout: collection
 collection: music
-author_profile: true
+author_profile: false
 entries_layout: list
 classes: wide
 ---
@@ -15,4 +15,5 @@ For a while I performed as a part of a semi professional blues rock band with fi
 We were called Bluemoss. An image of us performing, for posterity, can be found below.
 
 ![bluemoss](\assets\img\bluemoss-compressor.jpg)
+
 *Left to Right - Ayush, Nirbhay, Shreya, Imaad, Vineet, Me*

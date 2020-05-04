@@ -3,19 +3,24 @@
    ========================================================================== */
 
 #main {
+  margin-top: 90px;
+  padding-top: 10px;
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  max-width: 100%;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
-
+  //-webkit-animation: $intro-transition;
+  //animation: $intro-transition;
+  //max-width: 100%;
+  //-webkit-animation-delay: 0.15s;
+  //animation-delay: 0.15s; 
+  max-width: $medium-wide;
+  //width: 100%;
+    
+    
   @include breakpoint($x-large) {
-    max-width: $max-width;
+    max-width: $medium-wide;
   }
 }
 
@@ -36,15 +41,25 @@ body {
 }
 
 .page {
+    
+    //width: 67%;
+    //margin-left: auto;
+    //margin-right: auto;
+    padding-top: 20px;
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    //float: right;
+    //width: calc(100% - #{$right-sidebar-width-narrow});
+    //padding-right: $right-sidebar-width-narrow;
+      
+    //max-width: $medium-wide;
+      
+      
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    //width: calc(100% - #{$right-sidebar-width});
+    //padding-right: $right-sidebar-width;
+      //max-width: $medium-wide;
   }
 
   .page__inner-wrap {
@@ -119,7 +134,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.8em;
+    font-size: $type-size-5;
   }
 
   /* paragraph indents */
@@ -137,7 +152,7 @@ body {
 
   a:not(.btn) {
     &:hover {
-      text-decoration: underline;
+      //text-decoration: underline;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

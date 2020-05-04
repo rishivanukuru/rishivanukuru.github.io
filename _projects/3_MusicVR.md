@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+layout: projects
+author_profile: false
 title: Musical Expression in VR
 excerpt: Building visual intuition of music theory concepts through responsive virtual landscapes.
 duration: Autumn 2019

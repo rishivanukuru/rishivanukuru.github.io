@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "rishi" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -135,21 +135,21 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:rishivanukuru@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://rishivanukuru.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      #url: "https://github.com/vanukuru"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rishivanukuru/"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/rishivanukuru"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
@@ -288,7 +288,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: # true
       share: false
@@ -298,8 +298,8 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
-      author_profile: true
+      layout: project
+      author_profile: false
       share: false
       
       # _notes
@@ -308,7 +308,7 @@ defaults:
       type: notes
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       
       # _music
@@ -317,7 +317,7 @@ defaults:
       type: music
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       
 collections:

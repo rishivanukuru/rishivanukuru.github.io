@@ -4,7 +4,7 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
+  //float: left;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
@@ -16,17 +16,19 @@
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
-
+  
   footer {
+  
+      
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2em;
-    max-width: 100%;
+    max-width: $medium-wide;
     padding: 0 1em 2em;
 
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: $medium-wide;
     }
   }
 
@@ -35,7 +37,8 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+        color: $primary-color;
+      //text-decoration: underline;
     }
   }
 
@@ -47,9 +50,19 @@
   }
 }
 
+.page__footer-caption {
+  font-family: $global-font-family;
+  font-style: italic;
+  font-size: $type-size-7;
+  max-width: $medium-wide;
+    width: 67%;
+}
+
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  max-width: $medium-wide;
+    width: 67%;
 }
 
 .page__footer-follow {
@@ -64,8 +77,8 @@
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
+    font-size: $type-size-7;
+    //text-transform: uppercase;
   }
 
   li + li:before {
@@ -75,7 +88,7 @@
 
   a {
     padding-right: 10px;
-    font-weight: bold;
+    //font-weight: bold;
   }
 
   .social-icons {

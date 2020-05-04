@@ -3,20 +3,24 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
+ position: fixed;
+  top: 0;  
+    width: 100%;
+  //border-bottom: 2px solid $border-color;
+  //-webkit-animation: $intro-transition;
+  //animation: $intro-transition;
+  //-webkit-animation-delay: 0.15s;
+  //animation-delay: 0.15s;
   z-index: 20;
 
+    background: $header-background-color;
+    
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
-    max-width: 100%;
+    padding: 1em 0em;
+    max-width: $medium-wide;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -26,7 +30,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
-      max-width: $max-width;
+      max-width: $medium-wide;
     }
 
     nav {

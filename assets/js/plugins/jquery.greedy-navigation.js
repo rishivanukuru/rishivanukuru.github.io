@@ -27,10 +27,13 @@ $(document).ready(function() {
     // Get instant state
     availableSpace = $vlinks.width() - $btn.width();
     numOfVisibleItems = $vlinks.children().length;
+    numOfHiddenItems = $hlinks.children().length;
+      
     requiredSpace = breakWidths[numOfVisibleItems - 1];
-
+    //requiredSpace = breakWidths[numOfItems - 1];
+    
     // There is not enough space
-    if (requiredSpace > availableSpace) {
+    if ((requiredSpace > availableSpace)){
       $vlinks
         .children()
         .last()
@@ -38,14 +41,35 @@ $(document).ready(function() {
       numOfVisibleItems -= 1;
       check();
       // There is more than enough space
-    } else if (availableSpace > breakWidths[numOfVisibleItems]) {
-      $hlinks
+    } 
+      else if (availableSpace > breakWidths[numOfVisibleItems]) {
+      //else if ((availableSpace > breakWidths[numOfItems]) && numOfVisibleItems<numOfItems) {
+          $hlinks
         .children()
         .first()
         .appendTo($vlinks);
       numOfVisibleItems += 1;
       check();
+    } 
+      
+      
+      /*
+      if (requiredSpace > availableSpace) {
+      $vlinks
+        .children()
+        .prependTo($hlinks);
+      numOfVisibleItems = 0;
+      check();
+      // There is more than enough space
+    } else if (availableSpace > requiredSpace) {
+      $hlinks
+        .children()
+        .appendTo($vlinks);
+      numOfVisibleItems += numOfHiddenItems;
+      check();
     }
+      */
+      
     // Update the button accordingly
     $btn.attr("count", numOfItems - numOfVisibleItems);
     if (numOfVisibleItems === numOfItems) {

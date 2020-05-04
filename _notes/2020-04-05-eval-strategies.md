@@ -4,6 +4,7 @@ isnotes: "yes"
 isdate: 1
 permalink: notes/toolkit_evaluation_notes
 excerpt: A paper by Steven Houben et al. that presents an interesting compilation of potential evaluation methods for HCI projects.
+author_profile: false
 ---
 
 > Ledo, D., Houben, S., Vermeulen, J., Marquardt, N., Oehlberg, L., & Greenberg, S. (2018, April). **Evaluation strategies for HCI toolkit research**. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems* (pp. 1-17).
