@@ -2,7 +2,7 @@
 title: Towards Accessible Spatial Audio Interfaces // Presentation Companion
 permalink: torch
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 ## What this is about
@@ -17,7 +17,7 @@ Listening to headings, but two at a time:
         <source src="../media/torchaudio/1_TwoSpeakerSameVoice.mp3" type="audio/mpeg">
         Sorry but it seems that your browser does not support the audio element.
 </audio>
-    
+​    
 
 
 
@@ -137,6 +137,7 @@ A base Indian Accent voice was initially chosen for further processing.
         Sorry but it seems that your browser does not support the audio element.
     </audio>
     
+
 Voice Synthesis using the [Praat Software](http://www.fon.hum.uva.nl/praat/) resulted in the following voice types:
 
 - Androgynous Voice
@@ -160,6 +161,7 @@ Voice Synthesis using the [Praat Software](http://www.fon.hum.uva.nl/praat/) res
         Sorry but it seems that your browser does not support the audio element.
     </audio>
     
+
 For the final experiment, in addition to the base voice, two other American accent voices were used.
 
 - Sample file of the American accent male voice (Matthew, Amazon Polly)
