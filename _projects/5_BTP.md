@@ -14,7 +14,7 @@ As part of my Major Degree Project, I worked on research into the applications o
 
 An overview of the work is given in the following poster.
 
-![Multimodal Networks](\media\BTP\BTP_Poster.jpg)
+![This image is a poster that was used to present this project at a university conference](\media\BTP\BTP_Poster.jpg)
 
 A sample video of the model in action:
 

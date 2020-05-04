@@ -35,10 +35,10 @@ A digital, open access copy of "The Larynx - A Retrospective", a short science-f
 
 The ReVoice finger-based controller, meant to control Fluence speech synthesis systems.
 
-![ReVoice](\media\DF\ReVoice.png)
+![This is an image of a prototype of ReVoice. This is a blac cuboidal controller (of the size of a small matchbox) that is clipped onto a person's hand using an attached clip.](\media\DF\ReVoice.png)
 
 ### Artefact 4
 
 The Compass - a portable tool to indicate real or fake voices in the space around us. It works by vibrating more intensely when pointed at a source of speech that is more likely to be fake.
 
-![Compass](\media\thumbnails\dfthumbnail2.png)
+![This is an image of the compass device, which is a black cylindrical hand-held device with a spout at the top out of which a key chain emerges](\media\thumbnails\dfthumbnail2.png)

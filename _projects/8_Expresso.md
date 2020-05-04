@@ -18,12 +18,12 @@ We built the typewriter on top of two MIDI electronic keyboards (to be able to c
 
 Initially, the setup looked something like this:
 
-![ExpressoOne](\media\expresso\Expresso1.jpg)
+![This is an early image of the Expresso setup, consisting of two electronic pianos placed one on top of the other with a slight offset so that all the keys are accessible. There are strips of cardboard that cover groups of the piano keys, with each group being used to represent a single letter on a standard Q W E R T Y keyboard](\media\expresso\Expresso1.jpg)
 
 
 Eventually, the keyboards came together and looked a bit cleaner:
 
-![ExpressoTwo](\media\expresso\Expresso2.jpg)
+![This is the final image of the Expresso setup. The two pianos are completely encased inside a black frame, and the only visible parts are the keys which are covered with white acrylic strips that have the letters of the alphabet.](\media\expresso\Expresso2.jpg)
 
 
 A demo of the final setup can be viewed below:
