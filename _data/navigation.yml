@@ -7,6 +7,6 @@ main:
    - title: "Music"
      url: /music
    - title: "CV"
-     url: /media/RishiVanukuru_CV.pdf
+     url: /cv
   # - title: "Blog"
     # url: /blog
