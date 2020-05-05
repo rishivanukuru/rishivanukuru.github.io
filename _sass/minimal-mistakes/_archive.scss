@@ -10,6 +10,7 @@
     margin-left: auto;
   //padding-right:     
     
+    
   @include breakpoint($large) {
     //float: ;
     //width: calc(100% - #{$right-sidebar-width-narrow});
@@ -24,11 +25,21 @@
 
 .archive__item {
   position: relative;
-
     
+     border-style: solid;
+    border-width: medium;
+    border-color:$header-background-color;
+    
+    &:hover {
+    border-color: $secondary-color;
+
+    }
+  
   a {
     position: relative;
     z-index: 10;
+      
+      
   }
 
   a[rel="permalink"] {
@@ -37,24 +48,32 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  //margin: 1.414em 0 0;
+  
   padding-bottom: 0.5em;
   font-size: $type-size-4;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
-
+  
   + .list__item .archive__item-title {
     margin-top: 0.5em;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0em;
   font-family: $sans-serif-narrow;
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
-
+  margin-left: 0em;
+  margin-right: 0em;
+ 
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+    
   a[rel="permalink"]::before {
     content: '';
     position: absolute;
@@ -72,9 +91,8 @@
 /* remove border*/
 .page__content {
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 2em;
     border-bottom: none;
-      
       a{
           text-decoration: none;
       }
@@ -85,7 +103,12 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
-
+  margin: 0em 0em 0em 0em;
+  //margin-left: 0.5em;
+  //margin-right: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;    
   & + p {
     text-indent: 0;
   }
@@ -105,8 +128,8 @@
   position: absolute;
   bottom: 0;
   right: 0;
-  margin: 0 auto;
-  padding: 2px 5px;
+  //margin: 0 auto;
+  //padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
   font-size: $type-size-8;
@@ -117,7 +140,7 @@
   border-radius: $border-radius 0 0 0;
 
   @include breakpoint($large) {
-    padding: 5px 10px;
+    //padding: 5px 10px;
   }
 
   a {
@@ -142,9 +165,11 @@
    ========================================================================== */
 
 .archive {
+    
   .grid__wrapper {
     /* extend grid elements to the right */
 
+      
     @include breakpoint($large) {
       margin-right: -1 * $right-sidebar-width-narrow;
     }
@@ -157,7 +182,7 @@
 
 .grid__item {
     
-    
+
   margin-bottom: 2em;
 
   @include breakpoint($small) {
@@ -242,7 +267,7 @@
 
     @include breakpoint($medium) {
       display: block;
-      font-size: $type-size-6;
+      //font-size: $type-size-6;
     }
   }
 
