@@ -13,7 +13,7 @@ A shorter version can be found below.
 
 2018 to 2020: **Master of Design in Interaction Design** at the IDC School of Design, IIT Bombay. CGPA: 9.54/10
 
-2018 to 2020: **Bachelor of Technology in Civil Engineering** at IIT Bombay. CGPA: 9.12/10
+2014 to 2018: **Bachelor of Technology in Civil Engineering** at IIT Bombay. CGPA: 9.12/10
 
 2014: Apeejay School Nerul, All India Senior School Certificate Examination, Percentage 97.80%
 
