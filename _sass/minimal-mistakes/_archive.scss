@@ -23,11 +23,12 @@
   }
 }
 
+
 .archive__item {
   position: relative;
     
-     border-style: solid;
-    border-width: medium;
+    border-style: solid;
+    border-width: 0.2em;
     border-color:$header-background-color;
     
     &:hover {
