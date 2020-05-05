@@ -1,13 +1,13 @@
 ---
 title: Curriculum Vitae
 permalink: /cv
-layout: single
+layout: collection
 author_profile: false
 ---
 
 [Click here for a PDF version of my CV](\media\RishiVanukuru_CV.pdf)
 
-A shorter, more accessible version can be found below.
+A shorter version can be found below.
 
 ## Education
 
