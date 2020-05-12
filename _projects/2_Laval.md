@@ -10,6 +10,9 @@ permalink: /projects/creativityvr/
 
 ---
 
+> Update 12/05/2020: A paper on the "Movement and Creativity" module has been published in the journal **Thinking Skills and Creativity**. You can access the paper [here](/media/TSC_Paper.pdf).
+
+
 ## Overview
 In the summer of 2019, I did a research internship at the [***Laval Institute, Arts et métiers, France***](https://artsetmetiers.fr/en/institut/laval). Under the guidance of Prof. Simon Richir and Dr. Sylvain Fleury, I worked on a range of VR-related projects. These are briefly described below (followed by a video overview as well): 
 
