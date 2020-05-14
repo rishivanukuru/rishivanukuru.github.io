@@ -11,11 +11,9 @@ A shorter version can be found below.
 
 # Education
 
-2018 to 2020: **Master of Design in Interaction Design** at the IDC School of Design, IIT Bombay. CGPA: 9.54/10
+2018 to 2020: **Master of Design in Interaction Design** at the IDC School of Design, IIT Bombay. 
 
-2014 to 2018: **Bachelor of Technology in Civil Engineering** at IIT Bombay. CGPA: 9.12/10
-
-2014: Apeejay School Nerul, All India Senior School Certificate Examination, Percentage 97.80%
+2014 to 2018: **Bachelor of Technology in Civil Engineering** at IIT Bombay. 
 
 # Publications
 
@@ -48,11 +46,11 @@ Arduino, Android Studio
 HTC Vive, Windows Mixed Reality
 
 # Positions of Responsibility
-## Teaching Assistant at IDC, IIT Bombay
+**Teaching Assistant at IDC, IIT Bombay** <br>
 **Duration:** July 2018 onward. <br>
-I am assisting in the organisation of classes for B.Des and M.Des courses, as well as projects that are undertaken by the VR@IDC research group
+I am assisting in the organisation of classes for B.Des and M.Des courses, as well as projects that are undertaken by the VR@IDC research group.
 
-## Student Volunteer at India HCI 2019
+**Student Volunteer at India HCI 2019** <br>
 **Duration:** July 2019 to November 2019. <br> 
 I designed and maintained the online registration portal for India HCI 2019, a national conference organised by the HCI Professional’s Association of India.
 

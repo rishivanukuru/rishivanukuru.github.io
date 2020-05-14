@@ -8,7 +8,7 @@ layout: single
 permalink: /blog/torch101
 ---
 
-The Auditory Torch is an interaction method that aims to bring auditory perception closer to visual perception through the use of spatial audio. This 'metaphor' can be particularly useful in making interfaces more accessible for people with visual impairments who rely on screen readers. 
+The Auditory Torch is an interaction method that aims to bring auditory perception closer to visual perception through the use of spatial audio. This 'metaphor' can be particularly useful in making interfaces more accessible for persons with visual impairments who use screen readers. 
 
 # Status Quo
 
@@ -22,10 +22,13 @@ Persons with visual impairments often use screen readers to access interfaces an
 
 Screen readers access the structural information of websites and interfaces, and convey this through a single stream of synthesized speech.
 
-While they are extremely useful, screen readers have their limitations, the most fundamental of which is the use of audio as the primary means of information transfer.
+While they are extremely useful, screen readers have their limitations. Perhaps the most fundamental of these is the use of audio as the primary means of information transfer for content meant to be conyeved visually.
 
 ## Comparisons in Perception
 
+Human vision has a **field of view** and a **focus**, as determined by where our head is facing and where our **gaze** lies. 
+
+Auditory perception differs significantly in these aspects. We perceive auditory information coming from all around us.  
 
 
 <!--
