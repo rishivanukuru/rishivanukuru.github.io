@@ -1,8 +1,11 @@
 ---
 layout: collection
-title: Hello there
+title: Home
+home: "true"
 author_profile: false
 ---
+
+# Hello there
 
 My name is Rishi, and I'm a second year Master's student in Interaction Design at the IDC School of Design, IIT Bombay.
 
