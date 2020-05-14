@@ -51,5 +51,7 @@
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+     {% if post.duration %}<p class="archive__item-excerpt" itemprop="description" style="padding-left: 1.25em; font-size: 0.75em; font-weight: normal; font-style: italic;">{{ post.duration | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+
   </article>
 </div>

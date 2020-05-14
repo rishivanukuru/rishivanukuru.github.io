@@ -1,8 +1,8 @@
 ---
 layout: projects
 author_profile: false
-title: Research and Design for VR
-excerpt: Research Internship at Arts et métiers Laval, France.
+title: Creativity in Virtual Reality
+excerpt: A research and design internship at the Laval Institute, Arts et métiers, France.
 duration: Summer 2019
 header:
     teaser: /media/thumbnails/laval.jpg
@@ -19,7 +19,7 @@ In the summer of 2019, I did a research internship at the [***Laval Institute, A
 ### 1. Movement and Creativity
 We explored the effect of visual peripheral motion on creative performance. Virtual Reality presented a unique opportunity to design an environment where it was possible to separate the effect of visual motion and physical motion. I helped design the train environment that we then used while running a quantitative experiment - one that compared creative performance when participants were present in a stationary train, or a moving one.
 
-### 2. Interactions in VR
+### 2. Interactions for VR Creativity Support Tools
 Time2Sketch is an in-house collaborative 3D Drawing VR application designed by the engineers at Arts et métiers Laval. I helped design and prototype new forms of interactions for the software, in order to make better use of the affordances of Spatial movement and the VR controllers themselves. 
 
 ### 3. VR Experience Dashboard Design

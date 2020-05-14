@@ -5,6 +5,4 @@ layout: blog
 author_profile: false
 ---
 
-Just some stuff. For more focused notes, go to [Notes](\notes)
-
-
+This is for more general posts. For notes, go to [notes](/notes).

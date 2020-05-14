@@ -2,10 +2,10 @@
 layout: projects
 author_profile: false
 title: Expresso
-excerpt: An interactive installation of an expressive digital typewriter.
+excerpt: An interactive installation of an expressive digital typewriter using variable fonts and MIDI.
 duration: Spring 2019
 header:
-    teaser: /media/thumbnails/expresso-compressor.jpg
+    teaser: /media/thumbnails/expressothumbnail.jpg
 permalink: /projects/expresso/
 
 ---

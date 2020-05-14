@@ -577,3 +577,96 @@ body {
     }
   }
 }
+
+
+/*
+  Grid for Torch Demo
+   ========================================================================== */
+
+
+.torchgridcontainer{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    
+    column-gap: 1em;
+    row-gap: 1em;
+}
+
+.torchgriditemA{
+    
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    
+}
+
+.torchgriditemB{
+    
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    
+    
+    
+}
+.torchgriditemC{
+    
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    
+}
+.torchgriditemD{
+    
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    
+}
+.torchgriditemE{
+    
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    
+}
+.torchgriditemF{
+    
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    
+}
+.torchgriditemG{
+    
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    
+}
+.torchgriditemH{
+    
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    
+}
+.torchgriditemI{
+    
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    
+}
+
