@@ -1,10 +1,8 @@
 ---
 title: Music
 permalink: /music
-layout: collection
-collection: music
+layout: single
 author_profile: false
-entries_layout: list
 classes: wide
 ---
 
