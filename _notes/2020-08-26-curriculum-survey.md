@@ -44,7 +44,6 @@ author_profile: false
 - (In-text) Identifying geometries in real life
 - (In-text) Creating geometries out of primitive objects (folding papers to explore intersecting and parallel lines, making shapes out of matchsticks)
 - (In-text) Position of objects (inside, on, outside)
-- (In-text) 
 
 ## 5. Understanding Elementary Shapes
 > Measuring & Identifying Lines, Angles, 2D & 3D Shapes
@@ -155,14 +154,14 @@ Quite a few collab + spatial problems in the brain teaser section
 > Solving equations, real-life equations
 
 **Potential Tasks**
-- Physical puzzles as equations (marbles, runs, fruits)
+- (In-text) Physical puzzles as equations (marbles, runs, fruits)
 
 ## 5. Lines and Angles
 > Types of angles (acute obtuse reflex complementary supplementary adjacent) and lines (intersecting, transversal, parallel)
 
 **Potential Tasks**
-- Identify line types and angles
-- Parallel line + transversal angles in real objects
+- (In-text) Identify line types and angles
+- (In-text) Parallel line + transversal angles in real objects
 
 ## 6. The Triangle and its Properties
 Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
@@ -175,7 +174,7 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Congruence properties
 
 **Potential Tasks**
-- Overlapping objects to test congruence
+- (In-text) Overlapping objects to test congruence
 - (Weak) Discussing triangles and congruence
 - (In-text) Enrichment Activity: cutout comparisons for congruence
 
@@ -195,13 +194,13 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Construction of lines, angles, and triangles under various constraints and criteria
 
 **Potential Tasks**
-- Building intuition through paper folding
+- (In-text) Building intuition through paper folding
 
 ## 11. Perimeter and Area
 > Rectangles, Triangles, Parallelograms, Circles, Formulae, Conversion of Units
 
 **Potential Tasks**
-- Perimeters and areas in cut-outs and real objects
+- (In-text) Perimeters and areas in cut-outs and real objects
 - Real world word problems and applications
 - Conversion of units as dis-assembling and reassembling objects
 
@@ -209,7 +208,7 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Terms, Coefficients, Polynomials, Operations, Finding the value, formulae
 
 **Potential Tasks**
-- Patterns as expressions/equations
+- (In-text) Patterns as expressions/equations
 
 ## 13. Exponents and Powers
 > What they are, laws, operations, decimals as exponents, large numbers in standard form
@@ -221,7 +220,7 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Symmetry in polygons, line & rotational symmetry
 
 **Potential Tasks**
-- Folding exercises
+- (In-text) Folding exercises
 - Reflections
 - Visualising symmetry
 
@@ -229,13 +228,13 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Plane figures and solid shapes, faces, edges and vertices, nets, drawing 3D solids as 2D illustrations, isometric sketches, sections, shadows
 
 **Potential Tasks**
-- Identifying shapes, faces, edges
-- Nets
-- Projecting solids onto flat surfaces
-- Visualising Projections
-- Sections of solids
-- Projections as shadows
-- Projections as rotations
+- (In-text) Identifying shapes, faces, edges
+- (In-text) Nets
+- (In-text) Projecting solids onto flat surfaces
+- (In-text) Visualising Projections
+- (In-text) Sections of solids
+- (In-text) Projections as shadows
+- (In-text) Projections as rotations
 
 ---
 
@@ -271,7 +270,7 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Frequency distributions, histogram, pie charts, chance and probability, likelihood,
 
 **Potential Tasks**
-- Visualising charts and graphs
+- (In-text) Visualising charts and graphs
 - Understanding results in probability
 - Probability activities using class data (birthdates, heights)
 
@@ -279,13 +278,13 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Properties of squares, square roots, methods and formulae
 
 **Potential Tasks**
-- Visualising patterns formed by square numbers
+- (In-text) Visualising patterns formed by square numbers
 
 ## 7. Cubes and Cube Roots
 > Properties and formulae for cubes & cube roots
 
 **Potential Tasks**
-- Visualising patterns formed by cube numbers
+- (In-text) Visualising patterns formed by cube numbers
 
 ## 8. Comparing Quantities *(October 2020)*
 > Increase/Decrease in percentages, discounts, profit & loss, taxes, interest (simple/compound)
@@ -297,23 +296,23 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > Operations on expressions, terms and coefficients, identities
 
 **Potential Tasks**
-- Variable Number Lines
+- (In-text) Variable Number Lines
 
 ## 10. Visualising Solid Shapes
 > Views of shapes, mapping, faces edges vertices 
 
 **Potential Tasks**
-- Identifying shapes in real life
-- Understanding shape views and projections (matching projections)
-- Mapping Spaces, measuring distances
-- Faces edges vertices
+- (In-text) Identifying shapes in real life
+- (In-text) Understanding shape views and projections (matching projections)
+- (In-text) Mapping Spaces, measuring distances
+- (In-text) Faces edges vertices
 
 ## 11. Mensuration
 > Formulae for areas, surface areas, volume & capacity
 
 **Potential Tasks**
-- Graph sheet cutting to understand area formulae
-- Intuition for surface areas (unwrapping objects)
+- (In-text) Graph sheet cutting to understand area formulae
+- (In-text) Intuition for surface areas (unwrapping objects)
 - Word problems involving volumes and rates
 
 ## 12. Exponents and Powers
@@ -326,8 +325,8 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 > What these are, and how they work in real life
 
 **Potential Tasks**
-- Direct Proportion Physical Intuition: shadows, volumes
-- Inverse Proportion Physical Intuition: rates, counters, work
+- (In-text) Direct Proportion Physical Intuition: shadows, volumes
+- (In-text) Inverse Proportion Physical Intuition: rates, counters, work
 
 ## 14. Factorisation
 > Finding factors of expressions
@@ -340,7 +339,7 @@ Medians, Altitude, properties of angles, types of triangles, pythagoras theorem
 
 **Potential Tasks**
 - Visualising graphs
-- Understanding coordinate systems
+- (In-text) Understanding coordinate systems
 
 ## 16. Playing with Numbers
 > Games and puzzles, letters for digits, tests of divisibility
