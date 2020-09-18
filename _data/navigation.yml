@@ -10,5 +10,5 @@ main:
   #   url: /blog
    - title: "Music"
      url: /music
-   - title: "CV"
-     url: /cv
+  # - title: "CV"
+  #   url: /cv

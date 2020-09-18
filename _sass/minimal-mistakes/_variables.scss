@@ -13,8 +13,8 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1em !default;
 
 /* system typefaces */
-$serif: "IBM Plex Serif", Georgia, Times, serif !default;
-$sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Open Sans", "Roboto", "Segoe UI",
+$serif: "Inter", "IBM Plex Serif", Georgia, Times, serif !default;
+$sans-serif: "Inter", "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Open Sans", "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: "Fira Mono", Monaco, Consolas, "Lucida Console", monospace !default;
 
