@@ -26,6 +26,7 @@
     margin-top: 2em;
     max-width: $medium-wide;
     padding: 0 1em 2em;
+    padding-left: 2em;
 
     @include breakpoint($x-large) {
       max-width: $medium-wide;

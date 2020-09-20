@@ -10,48 +10,40 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser" style = 'background-image: 
-        url({% if teaser contains "://" %}
-            {{ teaser }}
-          {% else %}
-            {{ teaser | relative_url }}
-          {% endif %}); background-size: cover;background-position: center;'>
-          
-          
-
-<!--
-        <img src=
-          {% if teaser contains "/media" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | relative_url }}"
-          {% endif %}
-          alt="">
-          
--->
-          
+      <div class="archive__item-teaser">
+        <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-        
-        {% if post.isdate %}
-        <div style = "font-size: 12px; ">{{ post.date | date: '%B %d, %Y' }}</div>
-        {% endif %}
-        
       {% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
-     {% if post.duration %}<p class="archive__item-excerpt" itemprop="description" style="padding-left: 1.25em; font-size: 0.75em; font-weight: normal; font-style: italic;">{{ post.duration | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+{% if post.date %}
+  <p class="archive__item-date"><i><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></i>
+{% endif %}    {% include page__meta.html type=include.type %}
 
+      {% if site.category_archive.path %}
+      
+      {% capture post_categories %}{% for category in post.categories %}{{ category | downcase }}|{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+      {% assign category_hashes = post_categories | split: ',' | sort %}
+       
+      <span itemprop="keywords">
+    {% for hash in category_hashes %}
+      {% assign keyValue = hash | split: '|' %}
+      {% capture category_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+      • <a href="{{ category_word | slugify | prepend: site.category_archive.path | relative_url }}" rel="tag"> {{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+    {% endfor %}
+    </span>
+      
+      {% endif %}
+      
+      </p>
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>

@@ -1,62 +1,50 @@
 ---
 title: Curriculum Vitae
 permalink: /cv
-layout: collection
+layout: publications
 author_profile: false
 ---
 
-[Click here for a PDF version of my CV](\media\RishiVanukuru_CV.pdf)
+# CV
+---
+[Click here for the full PDF.](\assets\documents\cv\RishiVanukuru_CV_minimal.pdf)
 
-A shorter version can be found below.
+## Education
 
-# Education
+- **Master of Design in Interaction Design**  
+IDC School of Design, IIT Bombay  
+_2018 - 2020_
 
-2018 to 2020: **Master of Design in Interaction Design** at the IDC School of Design, IIT Bombay. 
+- **Bachelor of Technology in Civil Engineering**  
+Indian Institute of Technology Bombay  
+_2014 - 2018_
 
-2014 to 2018: **Bachelor of Technology in Civil Engineering** at IIT Bombay. 
+## Experience
 
-# Publications
+- **Research Associate**  
+**IDC School of Design, IIT Bombay**  
+Guide: Prof. Jayesh Pillai  
+_Autumn 2020 - Present_ 
 
-**Rishi Vanukuru** (2020, April). [**Accessible Spatial Audio Interfaces: A Pilot Study into Screen Readers with Concurrent Speech.**](https://dl.acm.org/doi/abs/10.1145/3334480.3381440) In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems Extended Abstracts (pp. 1-6).
+- **Research Intern**  
+**Laval Institute, Arts et métiers, France**  
+Guide: Prof. Simon Richir & Dr. Sylvain Fleury  
+_Summer 2019_
 
-Fleury, S., Agnès, A., **Vanukuru, R.**, Goumillout, E., Delcombel, N., & Richir, S. (2020). [**Studying the Effects of Visual Movement on Creativity.**](https://www.sciencedirect.com/science/article/pii/S1871187120300717?casa_token=1lmmKqI678UAAAAA:dEMYTmEUfHaK3agymKA1BEctex6Hlr8fWLIdG2t52YuyLQcVFT0ymGjyjY0ZQY5xTE5JtUgRK3Ix) Thinking Skills and Creativity, 100661.
+## Publications
 
-**Rishi Vanukuru**, & Velaga, N. R. (2018, April). [**Multimodal Transportation Network Design Using Physarum Polycephalum-Inspired Multi-agent Computation Methods.**](https://link.springer.com/chapter/10.1007/978-3-319-77538-8_8) In International Conference on the Applications of Evolutionary Computation (pp. 105-116.) Springer, Cham, 2018.
+- **Rishi Vanukuru**, Amarnath Murugan, and Jayesh Pillai. 2020. **Dual Phone AR: Exploring the use of Phones as Controllers for Mobile Augmented Reality**. In 26th ACM Symposium on Virtual Reality Software and Technology (VRST ’20).  
+[Poster preprint](/assets/documents/papers/Dual Phone AR VRST.pdf)
 
-# Technical Skills
+- **Rishi Vanukuru**, Amarnath Murugan, and Jayesh Pillai. 2020. **Dual Phone AR: Using a Second Phone as a Controller for Mobile Augmented Reality**. In Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST’20 Adjunct).  
+[Demo preprint](assets/documents/papers/Dual Phone AR UIST.pdf)
 
-## Programming
+- **Rishi Vanukuru**. 2020. Accessible Spatial Audio Interfaces: A Pilot Study into Screen Readers with Concurrent Speech. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20).  
+**Winner at the CHI 2020 Student Research Competition** 🏆  
+[PDF](/assets/documents/papers/Accessible Spatial Audio Interfaces.pdf) • [Website](https://dl.acm.org/doi/abs/10.1145/3334480.3381440)
 
-C/C++, C#, MATLAB, R, Processing
+- Fleury, S., Agnes, A., **Vanukuru, R.**, Goumillout, E., Delcombel, N., & Richir, S. (2020). **Studying the Effects of Visual Movement on Creativity**. Thinking Skills and Creativity, 100661.  
+[PDF](/assets/documents/papers/Studying the effects of visual movement on creativity.pdf) • [Website](https://www.sciencedirect.com/science/article/pii/S1871187120300717?casa_token=1lmmKqI678UAAAAA:dEMYTmEUfHaK3agymKA1BEctex6Hlr8fWLIdG2t52YuyLQcVFT0ymGjyjY0ZQY5xTE5JtUgRK3Ix)
 
-## Software
-
-Unity, Adobe Suite, FL Studio, Ableton Live
-
-## Web Development
-
-HTML, CSS, Javascript
-
-## Prototyping
-
-Arduino, Android Studio
-
-## VR Development
-
-HTC Vive, Windows Mixed Reality
-
-# Positions of Responsibility
-**Teaching Assistant at IDC, IIT Bombay** <br>
-**Duration:** July 2018 onward. <br>
-I am assisting in the organisation of classes for B.Des and M.Des courses, as well as projects that are undertaken by the VR@IDC research group.
-
-**Student Volunteer at India HCI 2019** <br>
-**Duration:** July 2019 to November 2019. <br> 
-I designed and maintained the online registration portal for India HCI 2019, a national conference organised by the HCI Professional’s Association of India.
-
-<!-- 
-## Institute Student Mentor at IIT Bombay
-**Duration:** April 2017 to April 2018. 
-
-I personally mentored 12 freshmen students to guide them through their first year, and help them overcome their academic and personal challenges. As part of a team of mentors, I worked to assist the freshman batch in adjusting to campus life and navigating various socio-cultural barriers.
--->
+- **Vanukuru, R.**, & Velaga, N. R. (2018, April). **Multimodal Transportation Network Design Using Physarum Polycephalum-Inspired Multi-agent Computation Methods**. In International Conference on the Applications of Evolutionary Computation (pp. 105-116). Springer, Cham.  
+[PDF](/assets/documents/papers/Multimodal Transportation Network Design.PDF) • [Website](https://link.springer.com/chapter/10.1007/978-3-319-77538-8_8)

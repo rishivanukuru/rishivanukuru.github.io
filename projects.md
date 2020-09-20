@@ -1,11 +1,12 @@
 ---
 title: Projects
-layout: collection
+layout: projectscollection
 permalink: /projects/
 collection: projects
 entries_layout: grid
 author_profile: false
-classes: wide
+classes: wide 
 ---
 
-For a list of publications, [click here](/publications).
+# Projects
+---
