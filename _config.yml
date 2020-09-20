@@ -138,9 +138,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:rishivanukuru@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://rishivanukuru.com"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://rishivanukuru.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       #url: "https://github.com/rishivanukuru"
