@@ -6,7 +6,8 @@ author_profile: false
 isdate: 1
 layout: single
 date:   2020-09-19
-categories: Posts
+categories: blog
+tags: music
 ---
 
 Hello there.
