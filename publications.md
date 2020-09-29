@@ -16,7 +16,7 @@ classes: wide
 - **Rishi Vanukuru**, Amarnath Murugan, and Jayesh Pillai. 2020. **Dual Phone AR: Using a Second Phone as a Controller for Mobile Augmented Reality**. In Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST’20 Adjunct).  
 [Demo preprint](assets/documents/papers/Dual Phone AR UIST.pdf)
 
-- **Rishi Vanukuru**. 2020. Accessible Spatial Audio Interfaces: A Pilot Study into Screen Readers with Concurrent Speech. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20).  
+- **Rishi Vanukuru**. 2020. **Accessible Spatial Audio Interfaces: A Pilot Study into Screen Readers with Concurrent Speech**. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA '20).  
 **Winner at the CHI 2020 Student Research Competition** 🏆  
 [PDF](/assets/documents/papers/Accessible Spatial Audio Interfaces.pdf) • [Website](https://dl.acm.org/doi/abs/10.1145/3334480.3381440)
 
