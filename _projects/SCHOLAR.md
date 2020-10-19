@@ -1,37 +1,28 @@
 ---
 layout: projects
 author_profile: false
-title: Remote Social Augmented Reality
-excerpt: Using Mobile AR to create social environments for spatial communication and learning
+title: Remote Augmented Reality Classrooms
+excerpt: Using Mobile AR to create social environments for spatial learning.
 duration: Ongoing
 header:
-    teaser: /media/thumbnails/artwothumbnail.png
+    teaser: /media/thumbnails/scholar_thumbnail.png
 permalink: /projects/scholar/
 type: projects
 class: main
-display: "no"
-order: 100
+display: "yes"
+order: 50
 
 ---
 
-This is an ongoing project about AR interaction methods. We are exploring the possible interactions afforded by the use of a second mobile phone as a controller for Handheld AR.
+As part of the [IMXD Lab](https://imxd.in), I'm working on the [**ScholAR Remote Classroom**](https://imxd.in/scholar-remote) project, where we're exploring the use of Social Augmented Reality to support remote education, with a focus on mathematics education for middle school. I'm mainly involved in the research, study design, and execution aspects of the project, and also help with the technical development of the app as well.
 
-I designed an Android app named 'ARTWO' to demonstrate some of these interactions. You can download the app and find out more at the following link:
+The application helps students and teachers interact with each other as if they were in the same physical space. The following video demo would give you a better idea of what the application is capable of - 
 
- [**ARTWO - Dual Phone AR -Home Page**](https://rishivanukuru.com/artwo/). 
+{% include video id="FhA2svVtDHk" provider="youtube" %}
 
-Here's a short teaser video:
+In the demo, a teacher is able to conduct a short class with 5 students using our application, and they can move around, talk to each other, and interact with 3D models as well.
 
-<iframe class = "video" src="https://www.youtube.com/embed/tGxPzaMrzkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
+Our motivation behind working on this project was to bring back the spatial and social aspects of classroom learning, something that is difficult to recreate in conventional video-call based classes. We are currently focusing on using this application to conduct short, spatial learning activities for middle school mathematics classes (such as visualising solid shapes and mensuration). 
 
-
-
-
-A short presentation explaining this research project can be viewed below:
-
-
-
-<iframe class= "video" src="https://docs.google.com/presentation/d/e/2PACX-1vRELXOdR-ylIB3Xhg7dN3ueNsmbPwTJktmpePfnqyk-biqCslMglvD6K_fXlMV8lLKx6l6WtX04i7yc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height = "600vh"  allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
----
+![A Poster about the ScholAR Remote Project](\assets\img\scholarremoteoverview.png)
 

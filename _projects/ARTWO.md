@@ -1,7 +1,7 @@
 ---
 layout: projects
 author_profile: false
-title: ARTWO - Augmented Reality
+title: ARTWO - Augmented Reality Interactions
 excerpt: Exploring the use of a second phone as a controller for Handheld AR experiences.
 duration: Ongoing
 header:
@@ -33,7 +33,11 @@ The associated publications do a good job of explaining the work we've done so f
 
 One main component of the project is the Android App "ARTWO" that I designed and developed to demonstrate some of the possible interactions and benefits of dual phone AR. You can download the app and find out more at the following link:
 
- [**ARTWO - Dual Phone AR -Home Page**](https://rishivanukuru.com/artwo/). 
+ [**ARTWO - Dual Phone AR - Home Page**](https://rishivanukuru.com/artwo/). 
+ 
+ You can download ARTWO for Android on the Google Play Store.
+ 
+ <div style = "width: 300px; margin-left:-20px; padding-left:0px;"><a href='https://play.google.com/store/apps/details?id=com.rishivanukuru.artwo&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a></div>
 
 ---
 

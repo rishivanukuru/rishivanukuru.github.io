@@ -9,7 +9,7 @@ header:
 permalink: /projects/styrofoam/
 class: main
 display: "yes"
-order: 800
+order: 700
 ---
 
 The Styrofoam Podcast was the result of a short course on Instructional Design in February 2019. 

@@ -9,7 +9,7 @@ header:
 permalink: /projects/multimodaltransport/
 class: main
 display: "yes"
-order: 600
+order: 800
 ---
 
 As part of my Undergraduate Degree Project, I worked on research into the applications of biological computational models to multimodal transport network design. 
