@@ -7,7 +7,7 @@ author_profile: false
 
 # CV
 ---
-[Click here for the full PDF.](\assets\documents\cv\RishiVanukuru_CV_minimal.pdf)
+[Click here for the full PDF.](\assets\documents\cv\RishiVanukuru_CV.pdf)
 
 ## Education
 
