@@ -34,7 +34,7 @@ _Summer 2019_
 ## Publications
 
 - **Rishi Vanukuru**, Amarnath Murugan, and Jayesh Pillai. 2020. **Dual Phone AR: Exploring the use of Phones as Controllers for Mobile Augmented Reality**. In 26th ACM Symposium on Virtual Reality Software and Technology (VRST ’20).  
-[Poster preprint](/assets/documents/papers/Dual Phone AR VRST.pdf)
+[PDF](/assets/documents/papers/Dual Phone AR VRST.pdf) • [Website](https://dl.acm.org/doi/10.1145/3385956.3422113)
 
 - **Rishi Vanukuru**, Amarnath Murugan, and Jayesh Pillai. 2020. **Dual Phone AR: Using a Second Phone as a Controller for Mobile Augmented Reality**. In Adjunct Publication of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST’20 Adjunct).  
 [PDF](assets/documents/papers/Dual Phone AR UIST.pdf) • [Website](https://dl.acm.org/doi/10.1145/3379350.3416139)
