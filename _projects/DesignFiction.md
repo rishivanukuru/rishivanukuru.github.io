@@ -9,7 +9,7 @@ header:
 permalink: /projects/designfiction/
 class: main
 display: "yes"
-order: 6700
+order: 900
 ---
 
 As part of the course "Trends in Interactive Technologies" in the spring of 2019, I worked on a project investigating the impact that more realistic speech synthesis technologies might have on the world over the next few decades. As part of the project, I wrote a short science fiction story, and built a few electronic prototypes to accompany the narrative. The overarching story was one of a world where all speech is suspect. The prototypes and artefacts are included below.
