@@ -7,8 +7,8 @@ author_profile: false
 
 # Hello there
 
-My name is Rishi Vanukuru, and I'm a Research Associate at the IDC School of Design, IIT Bombay, India.
+My name is Rishi Vanukuru, and I'm a first year PhD student in the [ATLAS Institute](https://www.colorado.edu/atlas/), University of Colorado Boulder. 
 
-I work at the [Immersive Media Experience Design (IMXD) Lab](https://imxd.in), in the areas of HCI, XR, and Accessibility.
+I am advised by [Ellen Do](https://www.colorado.edu/atlas/ellen-yi-luen-do), and work at the [ACME Lab](https://www.colorado.edu/atlas/acme-lab), where my research explores the design of immersive interfaces that support learning, creativity, and collaboration.
 
-I completed my Master's in Interaction Design from the IDC in 2020. Before joining the IDC, I was an undergraduate student at IIT Bombay (2014 - 2018), where I majored in Civil Engineering with a minor degree in Design.
+Before joining ATLAS, I completed an undergraduate degree in Civil Engineering, and a graduate degree in Interaction Design, both from the Indian Institute of Technology Bombay.

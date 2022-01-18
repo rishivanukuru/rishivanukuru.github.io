@@ -11,6 +11,10 @@ author_profile: false
 
 ## Education
 
+- **PhD, Creative Technology & Design**  
+ATLAS Institute, University of Colorado Boulder  
+_2022 - present_
+
 - **Master of Design in Interaction Design**  
 IDC School of Design, IIT Bombay  
 _2018 - 2020_
@@ -24,7 +28,7 @@ _2014 - 2018_
 - **Research Associate**  
 **IDC School of Design, IIT Bombay**  
 Guide: Prof. Jayesh Pillai  
-_Autumn 2020 - Present_ 
+_Autumn 2020 - Summer 2021_ 
 
 - **Research Intern**  
 **Laval Institute, Arts et métiers, France**  
