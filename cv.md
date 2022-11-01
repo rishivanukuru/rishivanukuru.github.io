@@ -1,10 +1,10 @@
 ---
 title: Curriculum Vitae
-permalink: /cv
-layout: publications
+redirect_to: /assets/documents/cv/RishiVanukuru_CV.pdf
 author_profile: false
 ---
 
+<!-- 
 # CV
 ---
 [Click here for the full PDF.](\assets\documents\cv\RishiVanukuru_CV.pdf)
@@ -51,4 +51,4 @@ _Summer 2019_
 [PDF](/assets/documents/papers/Studying the effects of visual movement on creativity.pdf) • [Website](https://www.sciencedirect.com/science/article/pii/S1871187120300717?casa_token=1lmmKqI678UAAAAA:dEMYTmEUfHaK3agymKA1BEctex6Hlr8fWLIdG2t52YuyLQcVFT0ymGjyjY0ZQY5xTE5JtUgRK3Ix)
 
 - **Vanukuru, R.**, & Velaga, N. R. (2018, April). **Multimodal Transportation Network Design Using Physarum Polycephalum-Inspired Multi-agent Computation Methods**. In International Conference on the Applications of Evolutionary Computation (pp. 105-116). Springer, Cham.  
-[PDF](/assets/documents/papers/Multimodal Transportation Network Design.PDF) • [Website](https://link.springer.com/chapter/10.1007/978-3-319-77538-8_8)
+[PDF](/assets/documents/papers/Multimodal Transportation Network Design.PDF) • [Website](https://link.springer.com/chapter/10.1007/978-3-319-77538-8_8) -->
