@@ -9,7 +9,7 @@ header:
 permalink: /projects/bipolarspectacles/
 class: side
 display: "yes"
-order: 300
+order: 700
 ---
 
 Making comics based on campus life at IITB was something that I wanted to do for quite some time. An initial attempt at realising the same can be found on an old blog I put up for the purpose, here - [Bipolar Spectacles Wordpress](https://bipolarspectacles.wordpress.com/).

@@ -1,0 +1,41 @@
+{% assign entries = site[include.collection] %}
+
+{% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'date' %}
+  {% endif %}
+{% endif %}
+
+{% if entries %}
+
+{% assign entries = entries | sort: 'date' | reverse %}
+
+<h1>Publications</h1>
+
+{%- for post in entries -%}
+{% if post.publication == "main" %}
+  {% include publications-single.html %}
+{% endif %}
+{%- endfor -%}
+
+<br>
+<hr>
+<h1>Posters, Demos, & Workshops</h1>
+<p style="font-size: 0.6em; margin-bottom: 0em;"><i>Lightly peer-reviewed</i></p>
+
+{%- for post in entries -%}
+{% if post.publication == "side" %}
+  {% include publications-single.html %}
+{% endif %}
+{%- endfor -%}
+
+{% endif %}
+

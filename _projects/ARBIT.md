@@ -2,14 +2,14 @@
 layout: projects
 author_profile: false
 title: ARBIT - Paper Prototyping an AR brainstorming tool
-excerpt: Experiments in creating real-life prototypes for AR applications
+excerpt: Experiments in creating real-life prototypes for AR applications.
 duration: Spring 2019
 header:
     teaser: /media/thumbnails/arbit-thumbnail.jpg
 permalink: /projects/arprototyping/
-class: main
+class: side
 display: "yes"
-order: 1000
+order: 200
 
 galleryfuture:
   - image_path: /media/ARBIT/arbit-future.jpg

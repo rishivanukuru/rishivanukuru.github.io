@@ -3,7 +3,7 @@ layout: projects
 author_profile: false
 title: ARTWO - Augmented Reality Interactions
 excerpt: Exploring the use of a second phone as a controller for Handheld AR experiences.
-duration: Ongoing
+duration: Spring 2020
 header:
     teaser: /media/thumbnails/artwothumbnail.png
 permalink: /projects/artwo/
@@ -13,7 +13,7 @@ display: "yes"
 order: 200
 ---
 
-This is an ongoing project about AR interaction methods, where we're exploring the possible uses of a second mobile phone as a controller for Handheld AR.
+ARTWO is project about AR interaction methods, where we explored the possible uses of a second mobile phone as a controller for Handheld AR.
 
 Here's a short explainer video (from our VRST 2020 Submission):
 

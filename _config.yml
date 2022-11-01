@@ -98,19 +98,19 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : UA-165937132-1
-    anonymize_ip         : # true, false (default)
+# analytics:
+#  provider               : # "google-gtag" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          : # UA-165937132-1
+#    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Rishi Vanukuru"
   avatar           : "/assets/img/prof6.png"
-  bio              : "Master's in Interaction Design, <br> IDC School of Design, IIT Bombay. <br> Will write songs for Cornettos."
-  location         : "Mumbai, India"
+  bio              : "PhD in Creative Technology and Design, <br> ATLAS Institute, CU Boulder. <br> Will write songs for Cornettos."
+  location         : "Boulder, Colorado"
   email            : "rishivanukuru@gmail.com"
   links:
     - label: "Email"
@@ -143,7 +143,7 @@ footer:
     #  url: "https://rishivanukuru.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/rishivanukuru"
+      url: "https://github.com/rishivanukuru"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rishivanukuru/"
@@ -321,6 +321,15 @@ defaults:
       layout: single
       author_profile: false
       share: false
+
+      # _music
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: false
+      share: false
       
 collections:
   projects:
@@ -330,5 +339,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   music:
+    output: true
+    permalink: /:collection/:path/
+  publications:
     output: true
     permalink: /:collection/:path/

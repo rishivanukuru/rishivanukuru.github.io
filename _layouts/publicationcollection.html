@@ -1,0 +1,10 @@
+---
+layout: projectspage
+collection: publications
+---
+
+{{ content }}
+
+<div class="selected-publications">
+    {% include documents-collection-publications.html collection='publications' sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+</div>

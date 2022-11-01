@@ -9,7 +9,7 @@ header:
 permalink: /projects/expresso/
 class: side
 display: "yes"
-order: 100
+order: 500
 ---
 
 Expresso was an Interactive Installation created for [TypoDay 2019](http://www.typoday.in/2019/index.html).

@@ -1,0 +1,90 @@
+{% if post.header.teaser %}
+{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+{% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+{% assign title = post.title %}
+{% endif %}
+
+<div class="publication_grid__item {% for tag in post.tags %} {{ tag }} {% endfor %}">
+    <article class="publications__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <div class="publication_holder">
+            {% if include.type == "grid" or teaser %}
+
+            <div class="publications__item-teaser" style='background-image: 
+          url({% if teaser contains "://" %}
+              {{ teaser }}
+            {% else %}
+              {{ teaser | relative_url }}
+            {% endif %});'>
+            </div>
+
+            {% endif %}
+
+            <div class="publication_text">
+
+                <h2 class="publications__item-title" itemprop="headline">
+
+                    {{ title }}
+
+                </h2>
+
+
+                
+                {% if post.abstract %}
+                <h2 class="publications__item-abstract" itemprop="headline">
+                    {{ post.abstract | markdownify}}
+                </h2>
+
+                {% endif %}
+
+
+
+                <h2 class="publications__item-subtitle" itemprop="headline">
+                    {{ post.authors | markdownify}}
+                </h2>
+
+                <h2 class="publications__item-venue" itemprop="headline">
+                    {{ post.venue }}
+                </h2>
+
+
+                <h2 class="publications__item-links" itemprop="headline">
+
+                    {% if post.PDF %}
+                    <a href={{post.PDF}} target="_blank">PDF</a>
+                    {% endif %}
+
+                    {% if post.PDF %}
+                    {% if post.website %}
+                    •
+                    {% endif %}
+                    {% endif %}
+
+                    {% if post.website %}
+                    <a href={{post.website}} target="_blank">Website</a>
+                    {% endif %}
+
+                    {% if post.PDF %}
+                    {% if post.video %}
+                    •
+                    {% endif %}
+                    {% endif %}
+
+                    {% if post.video %}
+                    <a href={{post.video}} target="_blank">Video</a>
+                    {% endif %}
+
+
+                </h2>
+
+
+            </div>
+
+        </div>
+    </article>
+</div>

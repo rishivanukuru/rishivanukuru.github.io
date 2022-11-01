@@ -9,7 +9,7 @@ header:
 permalink: /projects/soundspotting/
 class: side
 display: "yes"
-order: 200
+order: 650
 ---
 The idea for this project sprung from a personal interest in music/spatial sound, and a chance discussion about the same that I had with a Prof. Jayesh Pillai at the IDC, who works in the areas of Virtual and Augmented Reality experience design. At the time it was just a question about what new advances in our ability to digitally recreate sound environments could possibly be used for, and more specifically, how AR for sound could potentially hold its own value even when delinked from the more visual aspects that are prevalent today.
 

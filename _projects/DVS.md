@@ -9,7 +9,7 @@ header:
 permalink: /projects/dvs/
 class: side
 display: "yes"
-order: 150
+order: 600
 ---
 
 This is a networked visualisation of the various tools that members of the [Data Visualisation Society](https://www.datavisualizationsociety.com/) (DVS) use, and the connections between the tools themselves. I worked on this as an entry to the DVS's annual competition in 2019. You can view the gallery of submissions [here](https://www.datavisualizationsociety.com/annual-survey-challenge-2019).

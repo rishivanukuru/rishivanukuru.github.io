@@ -7,9 +7,9 @@ duration: Autumn 2019
 header:
     teaser: /media/thumbnails/RAM.jpg
 permalink: /projects/musicvr/
-class: main
+class: side
 display: "yes"
-order: 500
+order: 100
 ---
 
 ![This is an image of a man with a virtual reality headset sitting in front of an electronic piano while playing it and looking to the left. The man and the piano are facing the viewer.](\media\VR\vr3.jpg)

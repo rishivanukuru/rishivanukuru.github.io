@@ -9,7 +9,7 @@ header:
 permalink: /projects/shadows-photobook/
 class: side
 display: "yes"
-order: 400
+order: 800
 ---
 
 Shadows is a photobook on the lives of students at IIT Bombay, accompanied by free verse poetry. I worked on it as part of a team of two during my first ever design course in 2016. A digital version of the book can be read below.

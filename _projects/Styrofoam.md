@@ -7,9 +7,9 @@ duration: Spring 2019
 header:
     teaser: /media/thumbnails/styrofoam-compressor.jpg
 permalink: /projects/styrofoam/
-class: main
+class: side
 display: "yes"
-order: 700
+order: 300
 ---
 
 The Styrofoam Podcast was the result of a short course on Instructional Design in February 2019. 
