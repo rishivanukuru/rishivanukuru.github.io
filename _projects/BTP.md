@@ -8,7 +8,7 @@ header:
     teaser: /media/thumbnails/btpthumb.png
 permalink: /projects/multimodaltransport/
 class: main
-display: "yes"
+display: "no"
 order: 1100
 ---
 
