@@ -23,8 +23,8 @@ In-person human interaction relies on our spatial perception of each other and o
 
 DualStream was developed as part of the Shared Reality Project - a collaboration between ATLAS and Ericsson Research. An overview video of the project can be viewed below:
 
-<iframe class = "video" src="https://www.youtube.com/watch?v=X5AKgEwPaeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class = "video" src="https://www.youtube.com/embed/X5AKgEwPaeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## DualStream Video Figure
 
-<iframe class = "video" src="https://www.youtube.com/watch?v=_2HN7OgZIis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class = "video" src="https://www.youtube.com/embed/_2HN7OgZIis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
