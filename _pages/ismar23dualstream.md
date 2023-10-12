@@ -18,21 +18,25 @@ Slides: [DualStream Presentation - ISMAR 2023](https://docs.google.com/presentat
 ## Video Presentation
 <iframe class = "video" src="https://www.youtube.com/embed/Yvv503jG1Gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 ---
 
 ## Supplementary Video Figure
 <iframe class = "video" src="https://www.youtube.com/embed/6qVRXFbG7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 ---
 
 ## Even more supplementary videos
 <iframe class = "video" src="https://www.youtube.com/embed/tJLsUI2duME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 ---
 
 ## Project Overview
 <iframe class = "video" src="https://www.youtube.com/embed/X5AKgEwPaeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 ---
 
 ## Cross-Reality DualStream Demos
