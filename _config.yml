@@ -98,11 +98,8 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-# analytics:
-#  provider               : # "google-gtag" # false (default), "google", "google-universal", "custom"
-#  google:
-#    tracking_id          : # UA-165937132-1
-#    anonymize_ip         : # true, false (default)
+analytics:
+ provider               : false
 
 
 # Site Author
