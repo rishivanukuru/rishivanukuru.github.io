@@ -17,5 +17,7 @@ The presentation can be found [here](https://docs.google.com/presentation/d/e/2P
 
 <iframe class = "video" src="https://www.youtube.com/embed/KpIrK8pz-FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 <iframe class = "video" src="https://www.youtube.com/embed/IbLJJM29yF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
