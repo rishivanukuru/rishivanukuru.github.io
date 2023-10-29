@@ -5,7 +5,7 @@ authors: "**Rishi Vanukuru**, Amarnath Murugan, Jayesh Pillai, and Ellen Yi-Luen
 year: "2022"
 date: 2022-05-3
 venue: "ACM CHI 2022 Workshop on Social Presence in Virtual Event Spaces."
-PDF: "https://drive.google.com/file/d/1hfgy_sagcSLS5qm-zWCnxsUmQ2nf5r2V/view"
+PDF: /assets/documents/papers/chi2022social.pdf
 website: "https://sites.google.com/uci.edu/socialpresence-chi22workshop/program"
 header:
     teaser: /assets/img/publications/chi2022xr.jpg

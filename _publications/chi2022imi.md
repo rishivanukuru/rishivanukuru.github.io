@@ -5,7 +5,7 @@ authors: "Torin Hopkins, **Rishi Vanukuru**, Suibi Che-Chuan Weng, Amy Banic, an
 year: "2022"
 date: 2022-05-2
 venue: "ACM CHI 2022 Workshop on Intelligent Music Interfaces."
-PDF: "https://www.colorado.edu/atlas/sites/default/files/attached-files/imi-hopkins-final.pdf"
+PDF: /assets/documents/papers/chi2022imi.pdf
 header:
     teaser: /assets/img/publications/chi2022imi.jpg
 layout: publications    
