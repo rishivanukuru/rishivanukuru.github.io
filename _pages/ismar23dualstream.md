@@ -15,8 +15,8 @@ You can find the paper on [arXiv](https://arxiv.org/abs/2309.00842) or in PDF fo
 
 Slides: [DualStream Presentation - ISMAR 2023](https://docs.google.com/presentation/d/e/2PACX-1vTtJA_w1UFvx3SDe5HpAxd-m1aaRzH0erLcJAkmVoDhC-r0Bqf13ij3OcaDp--ikAGnlr_FJShuI8oj/pub?start=false&loop=false&delayms=60000)
 
-## Video Presentation
-<iframe class = "video" src="https://www.youtube.com/embed/Yvv503jG1Gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Video Presentation from ISMAR 2023
+<iframe class = "video" src="https://www.youtube.com/embed/ODcHSvFL4Jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
