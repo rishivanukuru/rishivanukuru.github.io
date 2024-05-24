@@ -27,9 +27,13 @@ The Survey - [On Space and Computing: A brief historical review](https://o365col
 
 <iframe class = "video" src="https://www.youtube.com/embed/m1_7tpurulE?si=fgr7z8JYTQZel4So" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 ## Supporting transitions across modes
 
 <iframe class = "video" src="https://www.youtube.com/embed/CbIlWf2SoNY?si=tXL4jguzJlV7a7d-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 ## Supporting interaction across time
 
