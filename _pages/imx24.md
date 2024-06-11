@@ -6,7 +6,8 @@ author_profile: false
 ---
 
 This is the companion page for the ACME lab demos at IMX 2024 - **Mobile Spatial Memories**, and **Mobile Spatial Collaboration**.
----
+
+<br>
 
 ## Media
 
