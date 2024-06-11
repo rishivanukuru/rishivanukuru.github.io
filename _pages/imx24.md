@@ -22,6 +22,10 @@ This is the companion page for the ACME lab demos at IMX 2024 - **Mobile Spatial
 
 <br>
 
+## Spatial Investigation Study Overview
+
+<iframe class = "video" src="https://www.youtube.com/embed/ksULumMfoek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## References
 
 [Mobile Spatial Memories](/assets/documents/papers/imx2024memories.pdf) (Demo at [IMX 2024](https://imx.acm.org/2024/))
