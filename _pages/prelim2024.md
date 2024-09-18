@@ -7,6 +7,12 @@ author_profile: false
 
 This is the companion page for the preliminary exam [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTch5I9oIvCmL3agv1hX9EFu67raXdhUrMRFrYTI7i8cz87O31l1EcoNddKS3YfOczZm4B-uZo7pmAf/pub?start=false&loop=false&delayms=60000&slide=id.p) "On Space and Computing".
 
+## Presentation Video
+
+<iframe class = "video" src="https://www.youtube.com/embed/m1_7tpurulE?si=fgr7z8JYTQZel4So" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Slide Deck
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTch5I9oIvCmL3agv1hX9EFu67raXdhUrMRFrYTI7i8cz87O31l1EcoNddKS3YfOczZm4B-uZo7pmAf/embed?start=false&loop=false&delayms=30000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
