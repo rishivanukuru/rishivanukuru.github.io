@@ -9,7 +9,7 @@ This is the companion page for the preliminary exam [presentation](https://docs.
 
 ## Presentation Video
 
-<iframe class = "video" src="https://www.youtube.com/embed/RmfisR9MNkE?si=8GBfgQECz6nu4uet" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class = "video" src="https://www.youtube.com/embed/wXdoKLr3w8I?si=esprjqdpF8tmH93G" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Slide Deck
 
