@@ -2,6 +2,8 @@ title: Rishi Vanukuru
 author:
   name: Rishi Vanukuru
   email: rishivanukuru@gmail.com
+url: "https://rishivanukuru.com"
+repository: "rishivanukuru/rishivanukuru.github.io"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
