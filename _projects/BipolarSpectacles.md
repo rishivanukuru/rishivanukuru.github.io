@@ -18,7 +18,7 @@ In my final year as an undergrad, I was able to expand upon the idea and create 
 
 <p align="center">
 
-<iframe class = "book" src="https://drive.google.com/file/d/1aa1yvSg7huC4RsHE2vrMOTs4jbQIpcmj/preview" width="640" height="900"></iframe>
+<iframe class = "book" src="https://drive.google.com/file/d/1aa1yvSg7huC4RsHE2vrMOTs4jbQIpcmj/preview" width="100%" height="500px"></iframe>
 
 </p>
 

@@ -19,7 +19,7 @@ As part of the course "Trends in Interactive Technologies" in the spring of 2019
 A digital, open access copy of "The Larynx - A Retrospective", a short science-fiction story by first-time author Dara Esfahani.
 
 <p align = "center">
-    <iframe class = "book" src="https://drive.google.com/file/d/1FDwKHk32I_E65a_XoRx-Mdpqa9xdT_zf/preview" width="640" height="480"></iframe>
+    <iframe class = "book" src="https://drive.google.com/file/d/1FDwKHk32I_E65a_XoRx-Mdpqa9xdT_zf/preview" width="100%" height="500px"></iframe>
 </p>
 
 ### Artefact 2
