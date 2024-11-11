@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Shadows - A Photobook
 excerpt: Photographs and poetry about campus life at IIT Bombay.

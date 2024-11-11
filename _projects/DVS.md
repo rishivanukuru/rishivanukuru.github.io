@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: What We Viz With
 excerpt: Network Data Visualization for the DVS 2019 Challenge.

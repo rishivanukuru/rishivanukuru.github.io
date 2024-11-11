@@ -1,7 +1,7 @@
 ---
 title: The Cross-Reality Playground - ISMAR 2023
 permalink: cross-reality-23
-layout: single
+layout: page
 author_profile: false
 ---
 
@@ -15,9 +15,9 @@ The presentation can be found [here](https://docs.google.com/presentation/d/e/2P
 
 ## Supplementary Videos
 
-<iframe class = "video" src="https://www.youtube.com/embed/KpIrK8pz-FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="KpIrK8pz-FA" provider="youtube" %}
 
 ---
 
-<iframe class = "video" src="https://www.youtube.com/embed/IbLJJM29yF4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="IbLJJM29yF4" provider="youtube" %}
 

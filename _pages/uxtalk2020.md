@@ -1,7 +1,7 @@
 ---
 title: UX Talk 2020
 permalink: uxtalk2020
-layout: single
+layout: page
 author_profile: false
 ---
 

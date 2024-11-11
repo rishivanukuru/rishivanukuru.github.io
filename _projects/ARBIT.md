@@ -1,6 +1,5 @@
 ---
-layout: projects
-author_profile: false
+layout: page
 title: ARBIT - Paper Prototyping an AR brainstorming tool
 excerpt: Experiments in creating real-life prototypes for AR applications.
 duration: Spring 2019
@@ -13,7 +12,6 @@ order: 200
 
 galleryfuture:
   - image_path: /media/ARBIT/arbit-future.jpg
-
 
 gallery0:
   - image_path: /media/ARBIT/stick-stack-2.jpg
@@ -89,8 +87,4 @@ Here are a few GIFs and images of how we went about demonstrating this paper pro
 
 {% include gallery id="gallery8" caption="Closing the board and the application with a flourish (and some fun animations)." %}
 
-We might have used up much more paper and cardboard than we had set out to save, but the project was a really fun experience. While it helped demonstrate how there is much that we can understand about spatial interfaces before reaching the technical development stage, I left the course with a strong belief that I would need to pick up the required prototyping skills in order to do meaningful work in this area moving forward. 
-
-Just two weeks after this project, I found myself in a research team where one of my main responsibilities was to develop working prototypes of VR interactions, and I've become a lot more familiar with building out XR systems in the time since. 
-
-Looking back, this was perhaps the turning point where I started thinking of myself as someone interested in more technical HCI research, and not just interaction design.
+We might have used up much more paper and cardboard than we had set out to save, but the project was a really fun experience.

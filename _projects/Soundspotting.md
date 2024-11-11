@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Soundspotting
 excerpt: Connecting Communities through Interactive Social Soundscapes and Audio Augmented Reality.
@@ -27,4 +27,4 @@ The visual setup within Unity (for the soundscape):
 
 A short video describing the project is below:
 
-<iframe class = "video" src="https://www.youtube.com/embed/vGwtdtADxFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="vGwtdtADxFo" provider="youtube" %}

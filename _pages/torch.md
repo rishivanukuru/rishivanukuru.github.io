@@ -1,7 +1,7 @@
 ---
 title: Towards Accessible Spatial Audio Interfaces // Presentation Companion
 permalink: torch
-layout: single
+layout: page
 author_profile: false
 ---
 

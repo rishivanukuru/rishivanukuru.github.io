@@ -1,7 +1,7 @@
 ---
 title: P3 Resource Holder
 permalink: pthree
-layout: single
+layout: page
 author_profile: false
 ---
 

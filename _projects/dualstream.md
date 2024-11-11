@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: DualStream
 excerpt: Spatially Sharing Selves and Surroundings using Mobile AR
@@ -7,6 +7,7 @@ duration: Ongoing
 header:
     teaser: /media/thumbnails/ismar2023dualstream.jpg
 type: projects
+permalink: projects/dualstream
 class: main
 display: "yes"
 order: 9
@@ -23,8 +24,8 @@ In-person human interaction relies on our spatial perception of each other and o
 
 DualStream was developed as part of the Shared Reality Project - a collaboration between ATLAS and Ericsson Research. An overview video of the project can be viewed below:
 
-<iframe class = "video" src="https://www.youtube.com/embed/X5AKgEwPaeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="X5AKgEwPaeA" provider="youtube" %}
 
 ## DualStream Video Figure
 
-<iframe class = "video" src="https://www.youtube.com/embed/_2HN7OgZIis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="_2HN7OgZIis" provider="youtube" %}

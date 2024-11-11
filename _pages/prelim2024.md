@@ -1,7 +1,7 @@
 ---
 title: On Space and Computing
 permalink: prelim2024
-layout: single
+layout: page
 author_profile: false
 ---
 
@@ -9,7 +9,7 @@ This is the companion page for the preliminary exam [presentation](https://docs.
 
 ## Presentation Video
 
-<iframe class = "video" src="https://www.youtube.com/embed/wXdoKLr3w8I?si=esprjqdpF8tmH93G" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="wXdoKLr3w8I" provider="youtube" %}
 
 ## Slide Deck
 
@@ -31,19 +31,18 @@ The Survey - [On Space and Computing: A brief historical review](https://o365col
 
 ## Maximizing spatial interaction
 
-<iframe class = "video" src="https://www.youtube.com/embed/m1_7tpurulE?si=fgr7z8JYTQZel4So" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="m1_7tpurulE" provider="youtube" %}
 
-<br>
 
 ## Supporting transitions across modes
 
-<iframe class = "video" src="https://www.youtube.com/embed/CbIlWf2SoNY?si=tXL4jguzJlV7a7d-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="CbIlWf2SoNY" provider="youtube" %}
 
-<br>
+
 
 ## Supporting interaction across time
 
-<iframe class = "video" src="https://www.youtube.com/embed/98K4GmJZxaA?si=SeGYAw4-tUboNK-m" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="98K4GmJZxaA" provider="youtube" %}
 
 
 

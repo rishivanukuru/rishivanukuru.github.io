@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: The Cross-Reality Playground
 excerpt: Exploring cross-reality interactions for hybrid collaboration.

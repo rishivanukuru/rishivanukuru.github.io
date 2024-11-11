@@ -1,11 +1,12 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Data is Yours
 excerpt: Cultivating Visualization Literacy for Children Through Curiosity and Play.
 duration: Spring 2022
 header:
     teaser: /media/thumbnails/diy.jpg
+permalink: projects/diy
 type: projects
 class: main
 display: "yes"

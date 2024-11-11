@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Creativity in Virtual Reality
 excerpt: A research and design internship at the Laval Institute, Arts et métiers, France.
@@ -31,5 +31,5 @@ I designed and developed a control panel for a VR Experience on the 'Future Citi
 
 A quick video overview of all of these modules can be viewed below.
 
-<iframe class = "video" src="https://www.youtube.com/embed/AYCyLVIs5e8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="AYCyLVIs5e8" provider="youtube" %}
 

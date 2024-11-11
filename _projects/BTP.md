@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Bio-inspired Network Design
 excerpt: Transportation Network Design based on biological modelling of the Slime Mould.

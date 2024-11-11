@@ -1,31 +1,29 @@
 ---
 title: IMX 2024 - Companion Page
 permalink: imx24
-layout: single
+layout: page
 author_profile: false
 ---
 
 This is the companion page for the ACME lab demos at IMX 2024 - **Mobile Spatial Memories**, and **Mobile Spatial Collaboration**.
 
-<br>
-
 ## Media
 
 ## Supporting interaction across time
 
-<iframe class = "video" src="https://www.youtube.com/embed/98K4GmJZxaA?si=SeGYAw4-tUboNK-m" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="98K4GmJZxaA" provider="youtube" %}
 
 <br>
 
 ## DualStream Video Figure
 
-<iframe class = "video" src="https://www.youtube.com/embed/6qVRXFbG7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="6qVRXFbG7rY" provider="youtube" %}
 
 <br>
 
 ## Spatial Investigation Study Overview
 
-<iframe class = "video" src="https://www.youtube.com/embed/ksULumMfoek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="ksULumMfoek" provider="youtube" %}
 
 ## References
 

@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Expresso
 excerpt: An expressive digital typewriter using variable fonts and MIDI.
@@ -30,6 +30,6 @@ Eventually, the keyboards came together and looked a bit cleaner:
 
 A demo of the final setup can be viewed below:
 
+{% include video id="GtJbb7XHSJU" provider="youtube" %}
 
-<iframe class = "video" src="https://www.youtube.com/embed/GtJbb7XHSJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

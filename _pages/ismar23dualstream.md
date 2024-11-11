@@ -1,7 +1,7 @@
 ---
 title: DualStream Companion Page - ISMAR 2023
 permalink: dualstream
-layout: single
+layout: page
 author_profile: false
 ---
 
@@ -15,24 +15,29 @@ You can find the paper on [IEEExplore](https://ieeexplore.ieee.org/abstract/docu
 Slides: [DualStream Presentation - ISMAR 2023](https://docs.google.com/presentation/d/e/2PACX-1vTtJA_w1UFvx3SDe5HpAxd-m1aaRzH0erLcJAkmVoDhC-r0Bqf13ij3OcaDp--ikAGnlr_FJShuI8oj/pub?start=false&loop=false&delayms=60000)
 
 ## Video Presentation from ISMAR 2023
-<iframe class = "video" src="https://www.youtube.com/embed/ODcHSvFL4Jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include video id="ODcHSvFL4Jw" provider="youtube" %}
 
 ---
 
 ## Supplementary Video Figure
-<iframe class = "video" src="https://www.youtube.com/embed/6qVRXFbG7rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include video id="6qVRXFbG7rY" provider="youtube" %}
 
 ---
 
 ## Even more supplementary videos
-<iframe class = "video" src="https://www.youtube.com/embed/tJLsUI2duME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include video id="tJLsUI2duME" provider="youtube" %}
 
 ---
 
 ## Project Overview
-<iframe class = "video" src="https://www.youtube.com/embed/X5AKgEwPaeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include video id="X5AKgEwPaeA" provider="youtube" %}
 
 ---
 
 ## Cross-Reality DualStream Demos
-<iframe class = "video" src="https://www.youtube.com/embed/y0gAkzUVyhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% include video id="y0gAkzUVyhc" provider="youtube" %}

@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: The Styrofoam Podcast
 excerpt: A podcast on the Common Entrance Examination for Design (CEED).

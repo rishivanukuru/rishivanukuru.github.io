@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Musical Expression in VR
 excerpt: Building visual intuition of music theory concepts through responsive virtual landscapes.
@@ -18,7 +18,7 @@ As part of a course on Design for Virtual Reality, we developed a VR application
 
 A short video demo of the same can be found below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gArph2JC5p8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="gArph2JC5p8" provider="youtube" %}
 
 <br>
 

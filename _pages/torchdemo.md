@@ -1,7 +1,7 @@
 ---
 title: Revisiting the Auditory Torch
 permalink: torch101
-layout: single
+layout: page
 author_profile: false
 ---
 

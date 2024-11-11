@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 author_profile: false
 title: Remote Augmented Reality Classrooms
 excerpt: Using Mobile AR to create social environments for spatial learning.
