@@ -9,7 +9,7 @@
         <ul class="contact-list">
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
-            <li>Will write songs for Cornettos.</li>
+            <li id="randomize-footer">Will write songs for Cornettos.</li>
           {% endif -%}
           <!-- {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
@@ -29,3 +29,14 @@
   </div>
 
 </footer>
+
+
+<script>
+  const myList = ["Cornettos", "hot chocolate", "Cornettos", "memories", "Cornettos", "yesterdays", "Cornettos", "summer days", "Cornettos", "madelines"];
+  
+  randomizeFunction()
+  
+  function randomizeFunction() {
+      document.getElementById("randomize-footer").innerHTML = "Will write songs for " + myList[Math.floor(Math.random() * myList.length)] + "."
+  }
+  </script>
