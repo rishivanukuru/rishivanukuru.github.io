@@ -11,7 +11,7 @@ layout: homebase
 <br>
 <br>
 
-Hello there! My name is Rishi. I'm currently a third-year PhD student in the [ATLAS Institute](https://www.colorado.edu/atlas/) at the University of Colorado Boulder. I am advised by [Ellen Do](https://www.colorado.edu/atlas/ellen-yi-luen-do), and work at the [ACME Lab](https://www.colorado.edu/atlas/acme-lab). Before joining ATLAS, I completed an undergraduate degree in Civil Engineering, and a graduate degree in Interaction Design (where I was a member of the [IMXD Lab](https://imxd.in)), both from the Indian Institute of Technology Bombay.
+Hello there! My name is Rishi. I'm currently a fourth-year PhD student in the [ATLAS Institute](https://www.colorado.edu/atlas/) at the University of Colorado Boulder. I am advised by [Ellen Do](https://www.colorado.edu/atlas/ellen-yi-luen-do), and work at the [ACME Lab](https://www.colorado.edu/atlas/acme-lab). Before joining ATLAS, I completed an undergraduate degree in Civil Engineering, and a graduate degree in Interaction Design (where I was a member of the [IMXD Lab](https://imxd.in)), both from the Indian Institute of Technology Bombay.
 
 # Research
 
