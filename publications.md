@@ -8,6 +8,15 @@ _For a full list:_ [[Google Scholar]](https://scholar.google.com/citations?user=
 
 ## Conference and Journal Papers
 
+**Designing Interfaces that Support Temporal Work Across Meetings with Generative AI** \\
+**Rishi Vanukuru**, Payod Panda, Xinyue Chen, Ava Elizabeth Scott, Lev Tankelevitch, and Sean Rintel. To appear in: Proceedings of Designing Interactive Systems Conference (DIS ’25).
+
+**Are We On Track? AI-Assisted Active and Passive Goal Reflection During Meetings** \\
+Xinyue Chen, Lev Tankelevitch, **Rishi Vanukuru**, Ava Elizabeth Scott, Payod Panda, and Sean Rintel. In: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25). [doi: 10.1145/3706598.3714052](https://doi.org/10.1145/3706598.3714052)
+
+**What Does Success Look Like? Catalyzing Meeting Intentionality with AI-Assisted Prospective Reflection** \\
+Ava Elizabeth Scott, Lev Tankelevitch, Payod Panda, **Rishi Vanukuru**, Xinyue Chen, and Sean Rintel. To appear in: Proceedings of the 4th Annual Meeting of the Symposium on Human-Computer Interaction for Work (CHIWORK ’25).
+
 **DualStream: Spatially Sharing Selves and Surroundings using Mobile Devices and Augmented Reality** \\
 **Rishi Vanukuru**, Suibi Che-Chuan Weng, Krithik Ranjan, Torin Hopkins, Amy Banic, Mark D. Gross, Ellen Yi-Luen Do. 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). [doi: 10.1109/ISMAR59233.2023.00028](https://doi.org/ISMAR59233.2023.00028) \\
 [[PDF]](/assets/documents/papers/ismar2023dualstream.pdf)
