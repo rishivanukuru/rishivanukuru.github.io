@@ -10,7 +10,7 @@ This is a companion page for our paper **"Designing Interfaces that Support Temp
 The link to the paper on the ACM DL is [here](https://dl.acm.org/doi/10.1145/3715336.3735833).
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9w2OnLhozrNKiGUImdRpMBh98F77PMDoWiYq5LWW2Vwhsj1OTArRlR8nNsmcavearUyp2s8ZpKWW4/pub?start=false&loop=false&delayms=60000" frameborder="0" width="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9w2OnLhozrNKiGUImdRpMBh98F77PMDoWiYq5LWW2Vwhsj1OTArRlR8nNsmcavearUyp2s8ZpKWW4/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Supplementary Materials
 Supplementary materials can be found at the following GitHub repository: [Temporal Work and Generative AI Supplementary Materials](https://github.com/rishivanukuru/temporal-work-dis-25)
