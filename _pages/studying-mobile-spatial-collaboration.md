@@ -5,7 +5,7 @@ layout: page
 author_profile: false
 ---
 
-This page contains supplementary materials for our paper titled **"Studying Mobile Spatial Collaboration across Video Calls and Augmented Reality"**.
+This page contains supplementary materials for our paper titled **"Studying Mobile Spatial Collaboration across Video Calls and Augmented Reality"**, to appear in the Proceedings of the ACM on Human-Computer Interaction, Volume 10, Issue 2, Article CSCW037.
 
 ## Spatial Analysis Maps
 
