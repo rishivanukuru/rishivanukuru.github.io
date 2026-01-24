@@ -5,7 +5,11 @@ layout: page
 author_profile: false
 ---
 
-This page contains supplementary materials for our paper titled "Studying Mobile Spatial Collaboration across Video Calls and Augmented Reality".
+This page contains supplementary materials for our paper titled **"Studying Mobile Spatial Collaboration across Video Calls and Augmented Reality"**.
+
+## Spatial Analysis Maps
+
+A PDF containing the spatial maps for all study sessions is linked here: [Spatial Analysis Maps](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQDdG5VeQdF-RrfCnGyOFbpRAU9l_orUu92NKZnWcAydavU?e=Mhd0c7)
 
 ## Supplementary Video
 
