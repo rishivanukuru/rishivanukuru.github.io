@@ -46,6 +46,6 @@ Some other things I've worked on over the years:
 
 ## Music
 
-I've been sporadically writing songs and composing music for a few years now. Some of my more recent songs can be found on my [music page](https://rishivanukuru.com/music), while older pieces are still on [Soundcloud](https://soundcloud.com/rishivanukuru). 
+I've been sporadically writing songs and composing music for a few years now. Some of my older songs can be found on my [Soundcloud page](https://soundcloud.com/rishivanukuru). 
 
 In another life, I was part of a semi-professional blues rock band, with five friends of mine. We were called Bluemoss.
