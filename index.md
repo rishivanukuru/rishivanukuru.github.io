@@ -21,11 +21,9 @@ Through my dissertation work, I aim to **support people as they make meaning and
 
 In the [DualStream](projects/dualstream) project (also [here](/dualstream)), we showcase how mobile phones can be used to support rich and practical forms of spatial remote communication in a range of contexts. More recently, we have studied the dynamics of mobile spatial collaboration relative to video calls ([paper](https://arxiv.org/abs/2601.17238)), and are drawing from ideas of seamful interaction and trajectories to design ecosystems for everyday spatial computing (in progress).
 
-For a higher-level phrasing of my research goals:
+_For a higher-level phrasing of my research goals:_
 
-> As a designer and human-computer interaction (HCI) researcher, I build and study new interactive systems that support meaningful forms of collaboration across space and time. With new technologies seeking to radically change the way we live and work, often for the worse, I believe we have a responsibility to take a more critical and intentional stance towards design, and _"commit to a possible, by means of resisting the probable"_^1^. Building upon insights from the allied fields of Science & Technology Studies, Social and Cognitive Sciences, Computer-Supported Cooperative Work, and Philosophy, I design tools for collaboration in the immediate future, and demonstrate _possible_ alternatives to the dominant implementations of systems that use Spatial Computing and AI.
-
-_1: Isabelle Stengers - The Insistence of Possibles. 2017._ [(Link)](https://parsejournal.com/article/the-insistence-of-possibles-towards-a-speculative-pragmatism/)
+As a designer and human-computer interaction (HCI) researcher, I build and study new interactive systems that support meaningful forms of collaboration across space and time. With new technologies seeking to radically change the way we live and work, often for the worse, I believe we have a responsibility to take a more critical and intentional stance towards design, and _"commit to a possible, by means of resisting the probable" ([Stengers, 2017](https://parsejournal.com/article/the-insistence-of-possibles-towards-a-speculative-pragmatism/)). Building upon insights from the allied fields of Science & Technology Studies, Social and Cognitive Sciences, Computer-Supported Cooperative Work, and Philosophy, I design tools for collaboration in the immediate future, and demonstrate _possible_ alternatives to the dominant implementations of systems that use Spatial Computing and AI.
 
 During my PhD, I've also been fortunate to work with: 
 - The [Intentional Meetings](https://www.microsoft.com/en-us/research/project/intentional-meetings/) team at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), on designing interfaces to support temporal work across meetings (Summer 2024).
@@ -46,7 +44,7 @@ Some other things I've worked on over the years:
 
 # Beyond
 
-## [Music](https://rishivanukuru.com/music)
+## Music
 
 I've been sporadically writing songs and composing music for a few years now. Some of my more recent songs can be found on my [music page](https://rishivanukuru.com/music), while older pieces are still on [Soundcloud](https://soundcloud.com/rishivanukuru). 
 
