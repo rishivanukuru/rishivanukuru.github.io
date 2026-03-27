@@ -5,15 +5,14 @@ layout: page
 author_profile: false
 ---
 
-Link to join online: [Rishi's Defense Online](https://cuboulder.zoom.us/j/99284996309) (Zoom Meeting ID: 992 8499 6309).
+
+I will be defending my dissertation titled _**"Designing the Everyday Spatial Computer: Supporting Meaningful Collaboration using Mobile Devices"**_ on **Friday, March 27** at **1:00 PM Mountain Time** (8:00 PM CET, 7:00 PM UTC, 12:00 PM PT, 12:30 AM 03/28 IST).
+
+The defense will take place in person in ATLAS (Cofrin Auditorium), and online via Zoom at this link: [Rishi's Defense Online](https://cuboulder.zoom.us/j/99284996309) (Meeting ID: 992 8499 6309).
 
 ## The Presentation
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRU8Pmr6aPUQx3D2sRfMGCQiXdlk8LBvrYuFai8p3S9RhORYqzNu_F0fkNl4lt1mWpBUbIjoAxnnvKB/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<br>
-
-A draft of my dissertation is linked here: [Designing the Everyday Spatial Computer](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQCUFOQbb999Sozm1O50OAGFATqzl8f1I69F-4_s09MFtXs?e=mv1zG0)
 
 ## DualStream
 
@@ -43,4 +42,6 @@ An overview of the features of the SpaceConnector prototype:
 ---
 ---
 
-[[Thanks]](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQA5vUNMUO0lTIKH0oTtZ83yAZ6ARcAu7t8j9mLVytrX4_s?e=gG0n61)
+
+
+A draft of my dissertation is linked here: [Designing the Everyday Spatial Computer](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQCUFOQbb999Sozm1O50OAGFATqzl8f1I69F-4_s09MFtXs?e=mv1zG0)
