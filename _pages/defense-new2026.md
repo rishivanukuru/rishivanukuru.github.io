@@ -9,7 +9,9 @@ Link to join online: [Rishi's Defense Online](https://cuboulder.zoom.us/j/992849
 
 ## The Presentation
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRU8Pmr6aPUQx3D2sRfMGCQiXdlk8LBvrYuFai8p3S9RhORYqzNu_F0fkNl4lt1mWpBUbIjoAxnnvKB/pub?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRU8Pmr6aPUQx3D2sRfMGCQiXdlk8LBvrYuFai8p3S9RhORYqzNu_F0fkNl4lt1mWpBUbIjoAxnnvKB/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
 
 A draft of my dissertation is linked here: [Designing the Everyday Spatial Computer](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQCUFOQbb999Sozm1O50OAGFATqzl8f1I69F-4_s09MFtXs?e=mv1zG0)
 
@@ -20,6 +22,8 @@ Rishi Vanukuru, Suibi Che-Chuan Weng, Krithik Ranjan, Torin Hopkins, Amy Banic, 
 
 An overview video of the prototype and its features:
 {% include video id="6qVRXFbG7rY" provider="youtube" %}
+
+<br>
 
 More information about this project can be found on the [DualStream page](/dualstream).
 
@@ -36,6 +40,7 @@ This video shows the two collaborative modes of AR calls and Video calls, as the
 An overview of the features of the SpaceConnector prototype:
 {% include video id="UnyA-AOLKyY" provider="youtube" %}
 
+---
 ---
 
 [[Thanks]](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQA5vUNMUO0lTIKH0oTtZ83yAZ6ARcAu7t8j9mLVytrX4_s?e=gG0n61)
