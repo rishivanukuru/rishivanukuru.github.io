@@ -5,9 +5,13 @@ layout: page
 author_profile: false
 ---
 
-I will be defending my dissertation titled _**"Designing the Everyday Spatial Computer: Supporting Meaningful Collaboration using Mobile Devices"**_ on **Friday, March 27** at **1:00 PM Mountain Time** (8:00 PM CET, 7:00 PM UTC, 12:00 PM PT, 12:30 AM 03/28 IST).
+I defended my dissertation titled _**"Designing the Everyday Spatial Computer: Supporting Meaningful Collaboration using Mobile Devices"**_ on Friday, March 27.
 
-The defense will take place in person in ATLAS (Cofrin Auditorium), and online via Zoom at this link: [Rishi's Defense Online](https://cuboulder.zoom.us/j/99284996309) (Meeting ID: 992 8499 6309).
+A draft of my dissertation (with the acknowledgements) is linked here: [Designing the Everyday Spatial Computer](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQCUFOQbb999Sozm1O50OAGFATqzl8f1I69F-4_s09MFtXs?e=mv1zG0)
+
+## The Talk
+
+{% include video id="XuBqIjHMctM" provider="youtube" %}
 
 ## The Presentation
 
@@ -39,8 +43,5 @@ An overview of the features of the SpaceConnector prototype:
 {% include video id="UnyA-AOLKyY" provider="youtube" %}
 
 ---
----
 
 
-
-A draft of my dissertation is linked here: [Designing the Everyday Spatial Computer](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQCUFOQbb999Sozm1O50OAGFATqzl8f1I69F-4_s09MFtXs?e=mv1zG0)
