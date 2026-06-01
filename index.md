@@ -11,7 +11,7 @@ layout: homebase
 <br>
 <br>
 
-Hello there! My name is Rishi. I'm currently a fifth-year PhD student in the [ATLAS Institute](https://www.colorado.edu/atlas/) at the University of Colorado Boulder. I am advised by [Ellen Do](https://www.colorado.edu/atlas/ellen-yi-luen-do), and work at the [ACME Lab](https://www.colorado.edu/atlas/acme-lab). Before joining ATLAS, I completed an undergraduate degree in Civil Engineering, and a graduate degree in Interaction Design (where I was a member of the [IMXD Lab](https://imxd.in)), both from the Indian Institute of Technology Bombay.
+Hello there! My name is Rishi. I recently defended my PhD in the [ATLAS Institute](https://www.colorado.edu/atlas/) at the University of Colorado Boulder. I was advised by [Ellen Do](https://www.colorado.edu/atlas/ellen-yi-luen-do), and worked at the [ACME Lab](https://www.colorado.edu/atlas/acme-lab). Before joining ATLAS, I completed an undergraduate degree in Civil Engineering, and a graduate degree in Interaction Design (where I was a member of the [IMXD Lab](https://imxd.in)), both from the Indian Institute of Technology Bombay.
 
 # Research
 
@@ -23,7 +23,7 @@ In the [DualStream](projects/dualstream) project (also [here](/dualstream)), we 
 
 _For a higher-level phrasing of my research goals:_
 
-As a designer and human-computer interaction (HCI) researcher, I build and study new interactive systems that support meaningful forms of collaboration across space and time. With new technologies seeking to radically change the way we live and work, often for the worse, I believe we have a responsibility to take a more critical and intentional stance towards design, and _"commit to a possible, by means of resisting the probable"_ ([Stengers, 2017](https://parsejournal.com/article/the-insistence-of-possibles-towards-a-speculative-pragmatism/)). Building upon insights from the allied fields of Science & Technology Studies, Social and Cognitive Sciences, Computer-Supported Cooperative Work, and Philosophy, I design tools for collaboration in the immediate future, and demonstrate _possible_ alternatives to the dominant implementations of systems that use Spatial Computing and AI.
+As a designer and human-computer interaction (HCI) researcher, I build and study new interactive systems that support meaningful forms of collaboration across space and time. With new technologies seeking to radically change the way we live and work, I believe we have a responsibility to take a more critical and intentional stance towards design, and _"commit to a possible, by means of resisting the probable"_ ([Stengers, 2017](https://parsejournal.com/article/the-insistence-of-possibles-towards-a-speculative-pragmatism/)). Building upon insights from the allied fields of Science & Technology Studies, Social and Cognitive Sciences, Computer-Supported Cooperative Work, and Philosophy, I design tools for collaboration in the immediate future, and demonstrate _possible_ alternatives to the dominant implementations of systems that use Spatial Computing and AI.
 
 During my PhD, I've also been fortunate to work with: 
 - The [Intentional Meetings](https://www.microsoft.com/en-us/research/project/intentional-meetings/) team at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), on designing interfaces to support temporal work across meetings with Generative AI (Summer 2024).
