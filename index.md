@@ -15,11 +15,11 @@ Hello there! My name is Rishi. I recently defended my PhD in the [ATLAS Institut
 
 # Research
 
-_For a more details, here's a list of [publications](/publications), and a link to my [CV](/cv)._
+_For more details, here's a list of [publications](/publications), and a link to my [CV](/cv)._
 
 Through my dissertation work, I aim to **support people as they make meaning and memories while collaborating across distance, time, and devices**. Space and spatial interaction are crucial aspects of how meaning and memories are made in everyday life. I explore how we can **maximize the potential of everyday devices like mobile phones and tablets for spatial computing**, and study how this changes the way people work together in hybrid environments. 
 
-In the [DualStream](projects/dualstream) project (also [here](/dualstream)), we showcase how mobile phones can be used to support rich and practical forms of spatial remote communication in a range of contexts. More recently, we have studied the dynamics of mobile spatial collaboration relative to video calls ([paper](https://arxiv.org/abs/2601.17238)), and are drawing from ideas of seamful interaction and trajectories to design ecosystems for everyday spatial computing (in progress).
+In the [DualStream](projects/dualstream) project (also [here](/dualstream)), we showcase how mobile phones can be used to support rich and practical forms of spatial remote communication in a range of contexts. More recently, we have studied the dynamics of mobile spatial collaboration relative to video calls ([paper](https://dl.acm.org/doi/full/10.1145/3788073)), and are drawing from ideas of seamful interaction and trajectories to design ecosystems for everyday spatial computing (in progress).
 
 _For a higher-level phrasing of my research goals:_
 
