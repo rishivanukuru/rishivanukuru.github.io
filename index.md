@@ -15,7 +15,7 @@ Hello there! My name is Rishi. I recently defended my PhD in the [ATLAS Institut
 
 # Research
 
-_For more details, here's a list of [publications](/publications), and a link to my [CV](/cv)._
+_For more details, here's a list of [publications](/publications), a [design portfolio](/portfolio-companion), and a link to my [CV](/cv)._
 
 Through my dissertation work, I aim to **support people as they make meaning and memories while collaborating across distance, time, and devices**. Space and spatial interaction are crucial aspects of how meaning and memories are made in everyday life. I explore how we can **maximize the potential of everyday devices like mobile phones and tablets for spatial computing**, and study how this changes the way people work together in hybrid environments. 
 
