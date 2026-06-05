@@ -33,7 +33,7 @@ An overview of the the key features and uses of the DualStream application, demo
 
 {% include video id="6qVRXFbG7rY" provider="youtube" %}
 
-- -
+<br>
 
 A video recording of my conference presentation from ISMAR 2023.
 
