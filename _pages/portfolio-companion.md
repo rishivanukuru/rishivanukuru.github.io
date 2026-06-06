@@ -29,7 +29,7 @@ An overview of the Generative AI Content Sandbox and working prototypes for each
 
 Paper at [ISMAR 2023](/assets/documents/papers/ismar2023dualstream.pdf).
 
-An overview of the the key features and uses of the DualStream application, demonstrated through realistic scenarios.
+An overview of the key features and uses of the DualStream application, demonstrated through realistic scenarios.
 
 {% include video id="6qVRXFbG7rY" provider="youtube" %}
 
