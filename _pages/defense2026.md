@@ -5,9 +5,9 @@ layout: page
 author_profile: false
 ---
 
-I defended my dissertation titled _**"Designing the Everyday Spatial Computer: Supporting Meaningful Collaboration using Mobile Devices"**_ on Friday, March 27.
+I defended my dissertation titled _**"Designing the Everyday Spatial Computer: Supporting Meaningful Collaboration using Mobile Devices"**_ on Friday, March 27, 2026.
 
-A draft of my dissertation (with the acknowledgements) is linked here: [Designing the Everyday Spatial Computer](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQCUFOQbb999Sozm1O50OAGFATqzl8f1I69F-4_s09MFtXs?e=mv1zG0)
+My dissertation (with the acknowledgements) is linked here: [Designing the Everyday Spatial Computer](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/riva3436_colorado_edu/IQBQ4MU-uKHyRoVhjzh0sKm-AYKb6rf2jVsk4jG2Wn5Bslo?e=yUKbHP)
 
 ## The Talk
 
