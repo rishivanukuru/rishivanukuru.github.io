@@ -4,12 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
-_For a full list:_ [[Google Scholar]](https://scholar.google.com/citations?user=7jZeo-gAAAAJ)
+For a full list, see [Google Scholar](https://scholar.google.com/citations?user=7jZeo-gAAAAJ).
 
 ## Conference and Journal Papers
 
 **Studying Mobile Spatial Collaboration across Video Calls and Augmented Reality** \\
-**Rishi Vanukuru**, Krithik Ranjan, Ada Zhao, David Lindero, Gunilla Berndtsson, Gregoire Phillips, Amy Banic, Mark D. Gross, and Ellen Yi-Luen Do. To appear in: Proceedings of the ACM on Human-Computer Interaction. 10, 2, Article CSCW037 (April 2026). [arXiv](https://arxiv.org/abs/2601.17238)
+**Rishi Vanukuru**, Krithik Ranjan, Ada Yi Zhao, David Lindero, Gunilla H. Berndtsson, Gregoire Phillips, Amy Banić, Mark D. Gross, and Ellen Yi-Luen Do. In: Proceedings of the ACM on Human-Computer Interaction. 10, 2, Article CSCW037 (April 2026). [doi: 10.1145/3788073](https://doi.org/10.1145/3788073)
+
+**Grand Challenges in Cross Reality** \\
+Christoph Anthes, Mark Billinghurst, Uwe Grünefeld, Hans-Christian Jetter, Hai-Ning Liang, Frank Maurer, David Aigner, Craig Anslow, Guillaume Bataille, Abraham G. Campbell, Judith Friedl-Knirsch, Alexander Gall, Renan Guarese, Sebastian Hubenschmid, Yue Li, Fabian Pointecker, Andreas Riegler, Daniel Roth, **Rishi Vanukuru**, Nanjia Wang, Lingyun Yu, Johannes Zagermann, and Daniel Zielasko. In: IEEE Transactions on
+Visualization and Computer Graphics, vol. 32, no. 9, September 2026. [doi: 10.1109/TVCG.2026.3695303](https://doi.org/10.1109/TVCG.2026.3695303)
+
 
 **Designing Interfaces that Support Temporal Work Across Meetings with Generative AI** \\
 **Rishi Vanukuru**, Payod Panda, Xinyue Chen, Ava Elizabeth Scott, Lev Tankelevitch, and Sean Rintel. In: Proceedings of the 2025 Designing Interactive Systems Conference (DIS ’25). [doi: 10.1145/3715336.3735833](https://doi.org/10.1145/3715336.3735833)

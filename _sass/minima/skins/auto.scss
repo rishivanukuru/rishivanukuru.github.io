@@ -11,7 +11,8 @@ $color-scheme-dark: false !default;
 // ----------
 
 // $lm-brand-color:           #828282 !default;
-$lm-brand-color:            #BE3455 !default;
+// $lm-brand-color:            #BE3455 !default;
+$lm-brand-color:            hsl(0, 67%, 41%) !default;
 $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
 $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
 
@@ -21,7 +22,8 @@ $lm-text-color:            #111111 !default;
 $lm-background-color:      #fdfdfd !default;
 $lm-code-background-color: #eeeeff !default;
 
-$lm-link-base-color:       #006eff !default;
+// $lm-link-base-color:       #006eff !default;
+$lm-link-base-color:       hsl(240, 67%, 53%) !default;
 $lm-link-visited-color:    darken($lm-link-base-color, 0%) !default;
 // $lm-link-hover-color:      $lm-text-color !default;
 $lm-link-hover-color:      $lm-link-base-color !default;
